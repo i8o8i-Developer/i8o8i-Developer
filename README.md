@@ -43,3 +43,6 @@ I'm A **Full Stack Backend Developer** And **AI/ML Engineer** Passionate About B
 ![](https://github-contributor-stats.vercel.app/api?username=i8o8i-Developer&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
