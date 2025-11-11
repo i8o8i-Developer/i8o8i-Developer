@@ -1,4 +1,8 @@
-﻿# 👋 Welcome To I8O8I's Developer Hub
+<p align="center">
+  <img src="https://github.com/i8o8i-Developer/i8o8i-Developer/blob/main/Coding.gif" alt="MasterHead" />
+</p>
+ 
+ # 👋 Welcome To I8O8I's Developer Hub
 
 I'm A **Full Stack Backend Developer** And **AI/ML Engineer** Passionate About Building Scalable Applications, Leveraging Machine Learning, And Architecting Robust Systems. With Expertise Spanning Cloud Infrastructure, Database Design, And Intelligent Algorithms, I Transform Complex Challenges Into Elegant Solutions.
 
