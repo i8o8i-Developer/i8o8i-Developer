@@ -389,6 +389,14 @@ I'm A **Full Stack Developer** And **AI/ML Engineer** With Proven Experience Bui
 
 ### ⭐ If You Find My Work Helpful, Consider Giving A Star!
 
-![Visitor Count](https://profile-counter.glitch.me/i8o8i-Developer/count.svg)
+</div>
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/output/github-contribution-grid-snake-dark.svg)
 
 </div>
