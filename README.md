@@ -397,6 +397,6 @@ I'm A **Full Stack Developer** And **AI/ML Engineer** With Proven Experience Bui
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/output/github-snake-dark.svg)
 
 </div>
