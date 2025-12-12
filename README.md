@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/i8o8i-Developer?label=Follow&style=social)](https://github.com/i8o8i-Developer)
-[![Profile Views](http://img.shields.io/badge/Profile%20Views-2189-blue)](https://github.com/i8o8i-Developer)
+[![GitHub Followers](https://img.shields.io/github/followers/i8o8i-Developer?label=Follow&style=social)](https://github.com/i8o8i-Developer)
 [![Years Badge](https://badges.pufler.dev/years/i8o8i-Developer)](https://github.com/i8o8i-Developer)
-[![Repos Badge](https://badges.pufler.dev/repos/i8o8i-Developer)](https://github.com/i8o8i-Developer)
+![Public Repos](https://komarev.com/ghpvc/?username=i8o8i-Developer)
+
 
 </div>
 
@@ -313,6 +313,7 @@ Php                            1 Repo                 ██░░░░░░�
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i8o8iworkstation@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/i8o8i-Developer)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/i8o8i_Developer))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@i8o8i-Developer)
 
 </div>
 
