@@ -177,11 +177,11 @@ I'm A **Full Stack Developer** And **AI/ML Engineer** With Proven Experience Bui
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![](https://nirzak-streak-stats.vercel.app/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
 
 </div>
 
