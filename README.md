@@ -8,10 +8,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/i8o8i-Developer?label=Follow&style=social)](https://github.com/i8o8i-Developer)
 ![Public Repos](https://komarev.com/ghpvc/?username=i8o8i-Developer)
-![GitHub Account Age](https://img.shields.io/badge/GitHub%20Since-2020-green)
-
-
-
+![GitHub Account Age](https://img.shields.io/badge/GitHub%20Since-2024-green)
 
 </div>
 
