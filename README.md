@@ -12,7 +12,7 @@
 
 </div>
 
-I'm A **Full Stack Developer** And **AI/ML Engineer** With Proven Experience Building Production-Ready Systems That Solve Real-World Problems. From Multi-Agent AI Platforms Serving Indian Farmers To Enterprise Healthcare Solutions Managing Critical Operations, I've Architected And Deployed Scalable, Secure Applications That Handle Complex Workflows And High-Stakes Data. My Portfolio Spans Intelligent Agricultural Systems, Encrypted Communication Platforms, Blockchain Networks, Real-Time Multiplayer Applications, And Enterprise Management Solutions—All Built With Security-First Principles And Modern Cloud-Native Architecture.
+I'm A Aspiring **Full Stack Developer** And **AI/ML Engineer** Developing Skills With Proven Experience Building Production-Ready Systems That Solve Real-World Problems. From Multi-Agent AI Platforms Serving Indian Farmers To Enterprise Healthcare Solutions Managing Critical Operations, I've Architected And Deployed Scalable, Secure Applications That Handle Complex Workflows And High-Stakes Data. My Portfolio Spans Intelligent Agricultural Systems, Encrypted Communication Platforms, Blockchain Networks, Real-Time Multiplayer Applications, And Enterprise Management Solutions—All Built With Security-First Principles And Modern Cloud-Native Architecture.
 
 ## 🎯 About Me | Core Competencies
 
