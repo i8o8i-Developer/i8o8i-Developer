@@ -12,60 +12,44 @@
 
 </div>
 
-I'm A Aspiring **Full Stack Developer** And **AI/ML Engineer** Developing Skills With Proven Experience Building Production-Ready Systems That Solve Real-World Problems. From Multi-Agent AI Platforms Serving Indian Farmers To Enterprise Healthcare Solutions Managing Critical Operations, I've Architected And Deployed Scalable, Secure Applications That Handle Complex Workflows And High-Stakes Data. My Portfolio Spans Intelligent Agricultural Systems, Encrypted Communication Platforms, Blockchain Networks, Real-Time Multiplayer Applications, And Enterprise Management Solutions—All Built With Security-First Principles And Modern Cloud-Native Architecture.
+I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Real-World Problems. Currently On An Intensive Journey Toward Becoming A Full Stack Developer And AI/ML Engineer, I'm Transforming Theoretical Knowledge Into Practical Applications Through Hands-On Project Development. Every Line Of Code I Write Brings Me Closer To Mastering The Full Technology Stack.
 
-## 🎯 About Me | Core Competencies
+## 🎯 What I'm Currently Building
 
-- 🔧 **Full Stack Architecture** - Delivered Complete End-To-End Solutions Including Multi-Agent AI Platform (AgriSense Guardian), Hospital Management System With Serverless Email Integration, And Real-Time Chess Platform With Socket.IO. Expertise In Building RESTful APIs, WebSocket Services, And Microservices Architecture With Django, Flask, FastAPI, And Node.js Backends Paired With Modern Frontend Frameworks.
+**Active Projects :**
+- 🌐 **Full-Stack Web Applications** - Creating End-To-End Solutions Using Python Backends (Flask/FastAPI) With Dynamic JavaScript Frontends, Implementing RESTful APIs And Responsive UI/UX
+- 🤖 **AI-Powered Tools** - Building Intelligent Systems That Leverage Machine Learning Concepts, From Data Preprocessing Pipelines To Basic Predictive Models
+- 🔐 **Authentication Systems** - Developing Secure User Management With JWT Tokens, Password Hashing, And Role-Based Access Control
+- 📊 **Data-Driven Applications** - Designing And Implementing Database Schemas, Writing Optimized Queries, And Building CRUD Operations Across SQL And NoSQL Databases
+- 🐳 **Containerized Deployments** - Learning DevOps Practices By Dockerizing Applications And Exploring Cloud Platforms For Production Deployment
 
-- 🤖 **AI/ML & Multi-Agent Systems** - Built Production Google ADK Multi-Agent System With Orchestrator Pattern, Parallel Agent Execution, And A2A Protocol Communication. Developed 7 Custom Agricultural Intelligence Tools Integrating NASA POWER, Copernicus ESA, And Real-Time Satellite Data. Experience With LLM Integration (Gemini 2.5), Prompt Engineering, And Intelligent Decision-Making Systems For Real-World Applications.
+**Learning Focus Areas :**
+- Mastering Asynchronous Programming And WebSocket Connections For Real-Time Features
+- Understanding Microservices Architecture And API Gateway Patterns
+- Implementing CI/CD Pipelines For Automated Testing And Deployment
+- Exploring Neural Networks And Deep Learning Fundamentals With TensorFlow/PyTorch
+- Building Scalable Backend Systems With Proper Error Handling And Logging
 
-- ⛓️ **Blockchain & Distributed Systems** - Architected Complete Cryptocurrency Implementation (i8o8iCoin) With Multiple Consensus Algorithms (PoW, PoS, DPoS), Smart Contract Engine, P2P Networking, And UTXO Transaction Model. Built Enterprise P2P Torrent System (DST Torrent) With Blockchain Peer Discovery, Proof-Of-Work Mining, And Military-Grade Encryption For Secure File Distribution.
+## 💡 Key Projects & Skills
 
-- 🔐 **Security & Cryptography Expert** - Implemented Quantum-Resistant Encryption (Kyber Algorithm), AES-256-GCM, RSA-4096, End-To-End Encrypted Communication Systems, And Anti-DPI Traffic Obfuscation. Built Secure VoIP Platform (i8o8i Communications) With Asterisk PBX, SRTP/TLS 1.3, And Multi-Factor Authentication. Experience With JWT Authentication, OAuth2 Integration, And Zero-Knowledge Proofs.
+**📦 Projects I've Built :**
+- Web Applications With Flask/FastAPI Backends And Dynamic Frontends
+- REST APIs With JWT Authentication And Role-Based Access Control
+- Database-Driven Applications Using MySQL, PostgreSQL, And MongoDB
+- Real-Time Features Using WebSocket Connections
+- Telegram Bots With Webhook Integration And Database Storage
+- Dockerized Applications With Basic CI/CD Pipelines
+- Simple Encryption And Security Implementations
 
-- ☁️ **Cloud Native & DevOps** - Deployed Production Applications On Google Cloud Run, AWS Lambda, And Azure Container Instances. Expertise In Multi-Stage Docker Builds With Security Hardening, Kubernetes Orchestration, Health Check Monitoring, And CI/CD Pipelines. Implemented Prometheus + Grafana Monitoring, OpenTelemetry Distributed Tracing, And Comprehensive Logging Systems With Log Rotation.
-
-- 🌐 **Real-Time & Networked Systems** - Built WebSocket-Based Real-Time Multiplayer Chess Platform With Matchmaking, Elo Rating System, And Socket.IO Communication. Developed P2P Networking Protocols With UDP Multicast Peer Discovery, Gossip-Based Propagation, And Connection Management For Encrypted Messaging (QuantumChat) And File Sharing Systems.
-
-- 🗄️ **Database & Storage Architecture** - Designed And Optimized PostgreSQL, MySQL, MongoDB, SQLite Databases With Connection Pooling, Query Optimization, And Data Modeling. Implemented UTXO Model For Blockchain Transactions, Hospital Appointment Management With Slot Locking, And Persistent Storage Systems With Encryption At Rest.
-
-- 📊 **System Monitoring & Observability** - Built Comprehensive Monitoring Infrastructure With Prometheus Metrics Export, Custom Grafana Dashboards, Structured Logging (Loguru), OpenTelemetry Tracing, And Real-Time Health Checks. Experience With Performance Profiling, Resource Optimization, And Production Incident Response.
-
-## 💡 Professional Expertise & Proven Capabilities
-
-**✅ Production-Deployed Systems :**
-- Multi-Agent AI Agricultural Intelligence Platform With Google ADK And Real-Time Satellite Integration
-- Enterprise Healthcare Management System With Google Calendar OAuth2 And Serverless Email Notifications
-- Quantum-Resistant Encrypted P2P Messenger With PyQt6 GUI And Cross-Platform Support
-- BitTorrent Protocol Implementation With Blockchain Peer Discovery And Auto-Seeding
-- Real-Time Multiplayer Chess Platform With PHP/Python Architecture And WebSocket Communication
-- Telegram Bots With GitHub Webhook Integration, MySQL Storage, And Docker Deployment
-- Version Control System (Synrix VCS) With Git-Like Functionality And .NET 8.0 Implementation
-- Cryptocurrency Platform With Smart Contracts, Multiple Consensus Mechanisms, And Web Dashboard
-- Secure VoIP Communication System With Asterisk PBX And Military-Grade Encryption
-
-**✅ Technical Achievements :**
-- Designed And Deployed 4x Faster Parallel Agent Execution Architecture
-- Implemented Localhost Optimization For Instant File Transfers (Zero Network Latency)
-- Built A2A Protocol Communication System For Scalable Multi-Agent Workflows
-- Architected Multi-Stage Docker Images With Production Security Hardening
-- Developed Custom Agricultural Tools Integrating 4+ NASA/ESA APIs Simultaneously
-- Created Self-Destructing Message Systems And Dead Drop Anonymous File Sharing
-- Implemented Proof-Of-Work Blockchain Mining And Transaction Validation
-- Built WebSocket-Based P2P Networks With Automatic Peer Discovery And Gossip Protocol
-
-**✅ Core Development Skills :**
-- RESTful API Design And Implementation (Flask, FastAPI, Django REST Framework)
-- WebSocket Real-Time Communication (Socket.IO, Python WebSockets, SignalR)
-- Multi-Agent System Architecture (Google ADK, Orchestrator Pattern, Agent Communication)
-- Cryptographic Protocol Implementation (ECDSA, RSA, AES-GCM, Kyber, TLS/SRTP)
-- Database Design And Optimization (SQL/NoSQL, ORM, Connection Pooling, Query Performance)
-- Microservices Architecture (Service Discovery, Message Queues, API Gateways)
-- Cloud Deployment Strategies (Serverless, Containerization, Auto-Scaling, Load Balancing)
-- Security Implementation (Authentication, Authorization, Encryption, Vulnerability Assessment)
-- Performance Monitoring (Metrics Collection, Distributed Tracing, Log Aggregation, Alerting)
-- Machine Learning Integration (Model Deployment, API Endpoints, Inference Optimization)
+**🎯 Technical Skills I'm Developing :**
+- RESTful API Design And Implementation (Flask, FastAPI)
+- WebSocket Real-Time Communication (Socket.IO, Python WebSockets)
+- Database Design And Optimization (SQL/NoSQL, Query Performance)
+- Authentication Systems (JWT, OAuth2, Password Hashing)
+- Docker Containerization And Cloud Deployment Basics
+- Git Version Control And GitHub Workflows
+- Basic Security Practices (Encryption, Input Validation)
+- API Testing And Documentation (Postman, Swagger)
 
 ---
 
