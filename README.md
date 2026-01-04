@@ -168,11 +168,13 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 ---
 <!--START_SECTION:waka-->
-![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-198.4%20Thousand%20Lines%20Of%20Code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-288%20hrs%205%20mins-blue)
+
+![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-200.1%20Thousand%20Lines%20Of%20Code-blue)
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 44.7 kB 
+> 📦 Used In GitHub's Storage : 44.8 kB 
  > 
 > 🏆 Contributions Made In The Year : 23 In 2026 
  > 
@@ -182,6 +184,53 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
  > 
 > 🔑 Private Repositories : 1 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      38 Commits             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+🌆 Daytime                      175 Commits            ████████░░░░░░░░░░░░░░░░░   33.59 %
+🌃 Evening                      195 Commits            █████████░░░░░░░░░░░░░░░░   37.43 %
+🌙 Night                        113 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.69 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         70 Commits             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Tuesday                        211 Commits            ██████████░░░░░░░░░░░░░░░   40.50 %
+Wednesday                      43 Commits             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Thursday                       23 Commits             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Friday                         111 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.31 %
+Saturday                       39 Commits             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Sunday                         24 Commits             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Typescript                     5 Hrs 59 Mins          █████████░░░░░░░░░░░░░░░░   34.83 %
+Markdown                       2 Hrs 56 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
+Javascript                     2 Hrs 21 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Json                           1 Hr 29 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Python                         1 Hr 14 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+
+🔥 Editors:
+Vs Code                        17 Hrs 10 Mins         █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+I8O8I-Portfolio                8 Hrs 41 Mins          █████████████░░░░░░░░░░░░   50.57 %
+Client-Pranjal_Portfolio       3 Hrs 52 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.51 %
+Durgonix-Dark-Theme            2 Hrs 48 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Interviewgod-Dev-Abranch       1 Hr 31 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Anubhav-Portfolio              8 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+
+💻 Operating System:
+Windows                        17 Hrs 10 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -199,7 +248,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 03/01/2026 18:47:31 UTC
+ Last Updated On 04/01/2026 18:48:26 UTC
 <!--END_SECTION:waka-->
 ---
 
