@@ -32,7 +32,7 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 ## 📦 Key Projects & Skills
 
-** Projects I've Built :**
+**Projects I've Built :**
 - Web Applications With Flask/FastAPI Backends And Dynamic Frontends
 - REST APIs With JWT Authentication And Role-Based Access Control
 - Database-Driven Applications Using MySQL, PostgreSQL, And MongoDB
@@ -142,8 +142,6 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 </div>
 
-
-
 ---
 
 ## 📊 GitHub Statistics
@@ -153,14 +151,6 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 ![](https://nirzak-streak-stats.vercel.app/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
-
-</div>
-
-## 🔝 Top Contributions | Featured Projects & Repositories
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=i8o8i-Developer&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 </div>
 
