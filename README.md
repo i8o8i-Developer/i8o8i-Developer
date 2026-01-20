@@ -17,11 +17,11 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 ## 🎯 What I'm Currently Building
 
 **Active Projects :**
-- 🌐 **Full-Stack Web Applications** - Creating End-To-End Solutions Using Python Backends (Flask/FastAPI) With Dynamic JavaScript Frontends, Implementing RESTful APIs And Responsive UI/UX
-- 🤖 **AI-Powered Tools** - Building Intelligent Systems That Leverage Machine Learning Concepts, From Data Preprocessing Pipelines To Basic Predictive Models
-- 🔐 **Authentication Systems** - Developing Secure User Management With JWT Tokens, Password Hashing, And Role-Based Access Control
-- 📊 **Data-Driven Applications** - Designing And Implementing Database Schemas, Writing Optimized Queries, And Building CRUD Operations Across SQL And NoSQL Databases
-- 🐳 **Containerized Deployments** - Learning DevOps Practices By Dockerizing Applications And Exploring Cloud Platforms For Production Deployment
+- **Full-Stack Web Applications** - Creating End-To-End Solutions Using Python Backends (Flask/FastAPI) With Dynamic JavaScript Frontends, Implementing RESTful APIs And Responsive UI/UX
+- **AI-Powered Tools** - Building Intelligent Systems That Leverage Machine Learning Concepts, From Data Preprocessing Pipelines To Basic Predictive Models
+- **Authentication Systems** - Developing Secure User Management With JWT Tokens, Password Hashing, And Role-Based Access Control
+- **Data-Driven Applications** - Designing And Implementing Database Schemas, Writing Optimized Queries, And Building CRUD Operations Across SQL And NoSQL Databases
+- **Containerized Deployments** - Learning DevOps Practices By Dockerizing Applications And Exploring Cloud Platforms For Production Deployment
 
 **Learning Focus Areas :**
 - Mastering Asynchronous Programming And WebSocket Connections For Real-Time Features
@@ -30,9 +30,9 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 - Exploring Neural Networks And Deep Learning Fundamentals With TensorFlow/PyTorch
 - Building Scalable Backend Systems With Proper Error Handling And Logging
 
-## 💡 Key Projects & Skills
+## 📦 Key Projects & Skills
 
-**📦 Projects I've Built :**
+** Projects I've Built :**
 - Web Applications With Flask/FastAPI Backends And Dynamic Frontends
 - REST APIs With JWT Authentication And Role-Based Access Control
 - Database-Driven Applications Using MySQL, PostgreSQL, And MongoDB
@@ -41,7 +41,7 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 - Dockerized Applications With Basic CI/CD Pipelines
 - Simple Encryption And Security Implementations
 
-**🎯 Technical Skills I'm Developing :**
+**Technical Skills I'm Developing :**
 - RESTful API Design And Implementation (Flask, FastAPI)
 - WebSocket Real-Time Communication (Socket.IO, Python WebSockets)
 - Database Design And Optimization (SQL/NoSQL, Query Performance)
@@ -150,8 +150,6 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
@@ -257,24 +255,24 @@ Javascript                     1 Repo                 █░░░░░░░�
 
 ### 💻 System & Infrastructure
 
-- **🔧 Safe Windows Repair** - Advanced Windows System Repair Toolkit With PowerShell
-- **🔗 Synrix VCS** - Next-Generation Version Control System With Quantum-Resistant Security
+- **Safe Windows Repair** - Advanced Windows System Repair Toolkit With PowerShell
+- **Synrix VCS** - Next-Generation Version Control System With Quantum-Resistant Security
 - **📞 i8o8i Secure Communications** - Enterprise-Grade Encrypted VoIP System (Asterisk PBX)
 
 ### 🤖 Bots & Automation
 
-- **🤖 Telegram Identity Bot** - Chat Management Tool For Power Users
-- **📊 i8o8i WakaTime Stats** - GitHub README Stats Integration
+- **Telegram Identity Bot** - Chat Management Tool For Power Users
+- **i8o8i WakaTime Stats** - GitHub README Stats Integration
 
 ### 🔗 Blockchain & Crypto
 
-- **💰 Digital Currency (i8o8iCoin)** - Complete Blockchain Implementation With Smart Contracts
-- **⛓️ Multi-Consensus Support** - PoW, PoS, DPoS Algorithms
+- **Digital Currency (i8o8iCoin)** - Complete Blockchain Implementation With Smart Contracts
+- **Multi-Consensus Support** - PoW, PoS, DPoS Algorithms
 
 ### 📚 Data & Research
 
-- **📖 Bhagwat Gita Dataset** - Comprehensive Multilingual Religious Text Dataset (720 Verses)
-- **🔌 ATS Unified API** - Applicant Tracking System Integration Solution
+- **Bhagwat Gita Dataset** - Comprehensive Multilingual Religious Text Dataset (720 Verses)
+- **ATS Unified API** - Applicant Tracking System Integration Solution
 
 [View All Projects →](https://github.com/i8o8i-Developer?tab=repositories)
 
@@ -294,21 +292,21 @@ Javascript                     1 Repo                 █░░░░░░░�
 
 ---
 
-## 💡 Currently Working On
+## 📦 Currently Working On
 
-- 🤖 **Building Advanced Multi-Agent AI Systems** With Google ADK
-- ⛓️ **Exploring Blockchain Applications** In Decentralized Identity
-- 📊 **Implementing Comprehensive Monitoring** With Prometheus And Grafana
+- **Building Advanced Multi-Agent AI Systems** With Google ADK
+- **Exploring Blockchain Applications** In Decentralized Identity
+- **Implementing Comprehensive Monitoring** With Prometheus And Grafana
 
 ---
 
 ## 🎓 Learning & Growth
 
 - 📚 Currently Exploring **Large Language Models (LLMs)** And **Prompt Engineering**
-- 🧠 Deepening Knowledge In **Distributed Systems** And **Microservices Architecture**
+- Deepening Knowledge In **Distributed Systems** And **Microservices Architecture**
 - ☁️ Advancing **Cloud-Native Development** With Kubernetes And Service Mesh
 - 🔒 Studying **Zero-Knowledge Proofs** And **Post-Quantum Cryptography**
-- 🚀 Experimenting With **Edge Computing** And **IoT Integration**
+- Experimenting With **Edge Computing** And **IoT Integration**
 
 ---
 
