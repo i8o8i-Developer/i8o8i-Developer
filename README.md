@@ -145,7 +145,9 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 ---
 <!--START_SECTION:waka-->
-![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.2%20Million%20Lines%20Of%20Code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-340%20hrs%2017%20mins-blue)
+
+![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.3%20Million%20Lines%20Of%20Code-blue)
 
 **🐱 i8o8i-Developer GitHub Data** 
 
@@ -159,6 +161,53 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
  > 
 > 🔑 Private Repositories : 0 
  > 
+**I Am An Early Birds** 
+
+```text
+🌞 Morning                      300 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+🌆 Daytime                      1345 Commits           ███████████░░░░░░░░░░░░░░   42.43 %
+🌃 Evening                      1036 Commits           ████████░░░░░░░░░░░░░░░░░   32.68 %
+🌙 Night                        489 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         298 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Tuesday                        1528 Commits           ████████████░░░░░░░░░░░░░   48.20 %
+Wednesday                      388 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Thursday                       113 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Friday                         608 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.18 %
+Saturday                       156 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Sunday                         79 Commits             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Python                         4 Hrs 44 Mins          ████████████████░░░░░░░░░   62.41 %
+Markdown                       1 Hr 29 Mins           █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+Javascript                     26 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Html                           20 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Git Config                     9 Mins                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+
+🔥 Editors:
+Vs Code                        7 Hrs 35 Mins          █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Intranet-Anubhavmaster         3 Hrs 28 Mins          ███████████░░░░░░░░░░░░░░   45.88 %
+Python-Learn                   1 Hr 52 Mins           ██████░░░░░░░░░░░░░░░░░░░   24.76 %
+Marketing-Tech-Dom-Issue       33 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Intranet-Master                23 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+I8O8I-Portfolio                22 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+
+💻 Operating System:
+Windows                        7 Hrs 35 Mins          █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -176,7 +225,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 01/02/2026 18:58:29 UTC
+ Last Updated On 02/02/2026 18:59:36 UTC
 <!--END_SECTION:waka-->
 ---
 
