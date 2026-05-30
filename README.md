@@ -12,44 +12,32 @@
 
 </div>
 
-I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Real-World Problems. Currently On An Intensive Journey Toward Becoming A Full Stack Developer And AI/ML Engineer, I'm Transforming Theoretical Knowledge Into Practical Applications Through Hands-On Project Development. Every Line Of Code I Write Brings Me Closer To Mastering The Full Technology Stack.
+I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Real-World Problems. Currently On An Intensive Journey Toward Becoming A Full Stack Developer And AI/ML Engineer, I'm Transforming Theoretical Knowledge Into Practical Applications Through Hands-On Project Development. Every Line Of Code I Write Brings Me Closer To Mastering The Full Technology Stack. Building Backend Infrastructure, Autonomous Developer Tools, And Systems-Oriented Engineering Projects Focused On Real-World Workflows And Platform Reliability.
 
-## 🎯 What I'm Currently Building
+My Work Primarily Focuses On :
 
-**Active Projects :**
-- **Full-Stack Web Applications** - Creating End-To-End Solutions Using Python Backends (Flask/FastAPI) With Dynamic JavaScript Frontends, Implementing RESTful APIs And Responsive UI/UX
-- **AI-Powered Tools** - Building Intelligent Systems That Leverage Machine Learning Concepts, From Data Preprocessing Pipelines To Basic Predictive Models
-- **Authentication Systems** - Developing Secure User Management With JWT Tokens, Password Hashing, And Role-Based Access Control
-- **Data-Driven Applications** - Designing And Implementing Database Schemas, Writing Optimized Queries, And Building CRUD Operations Across SQL And NoSQL Databases
-- **Containerized Deployments** - Learning DevOps Practices By Dockerizing Applications And Exploring Cloud Platforms For Production Deployment
+* Backend Engineering * Developer Infrastructure
+* Multi-Agent Workflows * Systems Engineering
+* API Architecture * Automation-Oriented Platforms
 
-**Learning Focus Areas :**
-- Mastering Asynchronous Programming And WebSocket Connections For Real-Time Features
-- Understanding Microservices Architecture And API Gateway Patterns
-- Implementing CI/CD Pipelines For Automated Testing And Deployment
-- Exploring Neural Networks And Deep Learning Fundamentals With TensorFlow/PyTorch
-- Building Scalable Backend Systems With Proper Error Handling And Logging
+## Current Engineering Focus
 
-## 📦 Key Projects & Skills
+* Building Autonomous Developer Tools And AI-Oriented Workflows
+* Designing Backend Systems Using Python, FastAPI, Django, And PostgreSQL
+* Developing Infrastructure-Focused Platforms And Internal Engineering Tools
+* Exploring Multi-Agent Architectures, Context Management, And Workflow Automation
+* Working Across Deployment Pipelines, Authentication Systems, And Production-Oriented APIs
 
-**Projects I've Built :**
-- Web Applications With Flask/FastAPI Backends And Dynamic Frontends
-- REST APIs With JWT Authentication And Role-Based Access Control
-- Database-Driven Applications Using MySQL, PostgreSQL, And MongoDB
-- Real-Time Features Using WebSocket Connections
-- Telegram Bots With Webhook Integration And Database Storage
-- Dockerized Applications With Basic CI/CD Pipelines
-- Simple Encryption And Security Implementations
+## Core Areas Of Experience
 
-**Technical Skills I'm Developing :**
-- RESTful API Design And Implementation (Flask, FastAPI)
-- WebSocket Real-Time Communication (Socket.IO, Python WebSockets)
-- Database Design And Optimization (SQL/NoSQL, Query Performance)
-- Authentication Systems (JWT, OAuth2, Password Hashing)
-- Docker Containerization And Cloud Deployment Basics
-- Git Version Control And GitHub Workflows
-- Basic Security Practices (Encryption, Input Validation)
-- API Testing And Documentation (Postman, Swagger)
+* Backend Infrastructure & REST APIs
+* ERP, OCR & School Management Systems
+* Authentication & Access-Control Workflows
+* Database Design & Query Optimization
+* Dockerized Deployment Workflows
+* Real-Time Communication Systems
+* Linux & Infrastructure-Oriented Development
+* Developer Tooling & Automation Systems
 
 ---
 
@@ -137,9 +125,9 @@ I'm A **Dedicated Developer** Passionate About Crafting Elegant Solutions To Rea
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true)
+![](https://github-readme-stats.shion.dev/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -230,29 +218,6 @@ Powershell                     1 Repo                 █░░░░░░░�
 <!--END_SECTION:waka-->
 ---
 
-## 🌟 Additional Projects
-
-### 💻 System & Infrastructure
-
-- **Safe Windows Repair** - Advanced Windows System Repair Toolkit With PowerShell
-- **Synrix VCS** - Next-Generation Version Control System With Quantum-Resistant Security
-- **📞 i8o8i Secure Communications** - Enterprise-Grade Encrypted VoIP System (Asterisk PBX)
-
-### 🤖 Bots & Automation
-
-- **Telegram Identity Bot** - Chat Management Tool For Power Users
-- **i8o8i WakaTime Stats** - GitHub README Stats Integration
-
-### 🔗 Blockchain & Crypto
-
-- **Digital Currency (i8o8iCoin)** - Complete Blockchain Implementation With Smart Contracts
-- **Multi-Consensus Support** - PoW, PoS, DPoS Algorithms
-
-### 📚 Data & Research
-
-- **Bhagwat Gita Dataset** - Comprehensive Multilingual Religious Text Dataset (720 Verses)
-- **ATS Unified API** - Applicant Tracking System Integration Solution
-
 [View All Projects →](https://github.com/i8o8i-Developer?tab=repositories)
 
 ---
@@ -271,21 +236,24 @@ Powershell                     1 Repo                 █░░░░░░░�
 
 ---
 
-## 📦 Currently Working On
+## Current Focus
 
-- **Building Advanced Multi-Agent AI Systems** With Google ADK
-- **Exploring Blockchain Applications** In Decentralized Identity
-- **Implementing Comprehensive Monitoring** With Prometheus And Grafana
+* Building Autonomous Developer Tools And Multi-Agent Engineering Workflows
+* Designing Backend Infrastructure Using Python, FastAPI, Django, PostgreSQL, And Docker
+* Developing Infrastructure-Oriented Platforms, Internal Tooling, And Automation Systems
+* Exploring Context Management, AI Workflow Orchestration, And Systems-Level Engineering
+* Improving Deployment Reliability, API Architecture, And Production-Oriented Backend Workflows
 
 ---
 
-## 🎓 Learning & Growth
+## Engineering Interests
 
-- 📚 Currently Exploring **Large Language Models (LLMs)** And **Prompt Engineering**
-- Deepening Knowledge In **Distributed Systems** And **Microservices Architecture**
-- ☁️ Advancing **Cloud-Native Development** With Kubernetes And Service Mesh
-- 🔒 Studying **Zero-Knowledge Proofs** And **Post-Quantum Cryptography**
-- Experimenting With **Edge Computing** And **IoT Integration**
+* Distributed Systems & Platform Architecture
+* Backend Infrastructure & API Design
+* Multi-Agent Systems & Workflow Automation
+* Linux & Infrastructure-Oriented Engineering
+* Developer Tooling & Internal Platforms
+* Deployment Pipelines & Infrastructure Reliability
 
 ---
 
