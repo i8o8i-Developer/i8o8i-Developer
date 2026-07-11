@@ -125,9 +125,9 @@ My Work Primarily Focuses On :
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=i8o8i-Developer&theme=chartreuse-dark&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=i8o8i-Developer&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
