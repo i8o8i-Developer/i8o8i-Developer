@@ -1,8 +1,5 @@
 <a href="https://github.com/i8o8i-Developer/i8o8i-Developer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/DARK_MODE.svg">
-    <img alt="i8o8i-Developer's GitHub Profile README" src="https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/LIGHT_MODE.svg">
-  </picture>
+  <img alt="i8o8i-Developer's GitHub Profile README" src="https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/DARK_MODE.svg">
 </a>
  
 # 👋 Welcome To i8o8i's Developer Hub
