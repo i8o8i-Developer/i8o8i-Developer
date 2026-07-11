@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://github.com/i8o8i-Developer/i8o8i-Developer/blob/main/Coding.gif" alt="MasterHead" />
-</p>
+<a href="https://github.com/i8o8i-Developer/i8o8i-Developer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/DARK_MODE.svg">
+    <img alt="i8o8i-Developer's GitHub Profile README" src="https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/LIGHT_MODE.svg">
+  </picture>
+</a>
  
 # 👋 Welcome To i8o8i's Developer Hub
 
