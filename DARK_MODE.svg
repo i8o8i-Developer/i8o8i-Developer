@@ -49,7 +49,7 @@ text, tspan {white-space: pre;}
 <text x="360" y="30" fill="#C1E8D5">
 <tspan x="360" y="30" class="title">i8o8i@developer</tspan> <tspan class="cc">-------------------------------------------------------</tspan>
 <tspan x="360" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Windows, Linux, Android</tspan>
-<tspan x="360" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................. </tspan><tspan class="value" id="age_data">18 years, 1 month, 10 days</tspan>
+<tspan x="360" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................. </tspan><tspan class="value" id="age_data">18 years, 1 month, 22 days</tspan>
 <tspan x="360" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">i8o8i Solutions (Not Open To Hire)</tspan>
 <tspan x="360" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Full Stack Developer &amp; AI/ML Engineer</tspan>
 <tspan x="360" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">VS Code, Antigravity IDE, Trae</tspan>
@@ -69,8 +69,8 @@ text, tspan {white-space: pre;}
 <tspan x="360" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">i8o8i-Developer</tspan>
 <tspan x="360" y="430" class="cc">. </tspan>
 <tspan x="360" y="450" class="section">- GitHub Stats</tspan> <tspan class="cc">--------------------------------------------------------</tspan>
-<tspan x="360" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="key"> | </tspan><tspan class="key">Private</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="contrib_data">0</tspan><tspan class="key"> | </tspan><tspan class="key">2026 Contributions</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="commit_data">274</tspan></tspan>
+<tspan x="360" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="repo_data">26</tspan><tspan class="key"> | </tspan><tspan class="key">Private</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="contrib_data">0</tspan><tspan class="key"> | </tspan><tspan class="key">2026 Contributions</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="commit_data">2415</tspan></tspan>
 <tspan x="360" y="490"><tspan class="cc">. </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="star_data">30</tspan><tspan class="key"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="follower_data">2</tspan></tspan>
-<tspan x="360" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines Written (WakaTime)</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="loc_data">31,400,000</tspan><tspan class="key"> | </tspan><tspan class="key">Hours Coded</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="loc_add">765</tspan></tspan>
+<tspan x="360" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines Written (WakaTime)</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="loc_data">0</tspan><tspan class="key"> | </tspan><tspan class="key">Hours Coded</tspan>:<tspan class="cc"> ... </tspan><tspan class="value" id="loc_add">765</tspan></tspan>
 </text>
 </svg>
