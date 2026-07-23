@@ -1,6 +1,8 @@
 import html
 import os
 import requests
+import datetime
+import re
 
 THEME = "Dark"   # "Dark" Or "Light"
 
@@ -51,7 +53,7 @@ def fetch_github_stats(username):
     if token:
         headers["Authorization"] = f"token {token}"
     
-    stats = {"repos": "25", "followers": "—", "stars": "—", "contributions": "274"}
+    stats = {"repos": "0", "followers": "0", "stars": "0", "contributions": "0"}
     
     try:
         r = requests.get(f"https://api.github.com/users/{username}", headers=headers)
@@ -65,6 +67,25 @@ def fetch_github_stats(username):
             repos_data = r_repos.json()
             total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
             stats["stars"] = str(total_stars)
+            
+        if token:
+            query = """
+            query {
+              user(login: "%s") {
+                contributionsCollection {
+                  contributionCalendar {
+                    totalContributions
+                  }
+                }
+              }
+            }
+            """ % username
+            r_gql = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers)
+            if r_gql.status_code == 200:
+                gql_data = r_gql.json()
+                contribs = gql_data.get("data", {}).get("user", {}).get("contributionsCollection", {}).get("contributionCalendar", {}).get("totalContributions")
+                if contribs is not None:
+                    stats["contributions"] = str(contribs)
     except Exception as e:
         print(f"Failed to fetch GitHub stats: {e}")
         
@@ -72,7 +93,7 @@ def fetch_github_stats(username):
 
 def fetch_wakatime_stats():
     api_key = os.environ.get("WAKATIME_API_KEY")
-    stats = {"hours": "803"}
+    stats = {"hours": "0"}
     if not api_key:
         return stats
     try:
@@ -86,14 +107,47 @@ def fetch_wakatime_stats():
         print(f"Failed to fetch WakaTime stats: {e}")
     return stats
 
+def get_uptime():
+    start_date = datetime.date(2008, 6, 1)
+    now = datetime.date.today()
+    
+    years = now.year - start_date.year
+    months = now.month - start_date.month
+    days = now.day - start_date.day
+    
+    if days < 0:
+        months -= 1
+        days += 30
+    if months < 0:
+        years -= 1
+        months += 12
+        
+    return f"{years} years, {months} month{'s' if months != 1 else ''}, {days} day{'s' if days != 1 else ''}"
+
+def get_lines_of_code():
+    loc = "0"
+    try:
+        if os.path.exists("README.md"):
+            with open("README.md", "r", encoding="utf-8") as f:
+                content = f.read()
+                match = re.search(r"I Have Written-([0-9.]+ Million) Lines Of Code", content, re.IGNORECASE)
+                if match:
+                    loc = match.group(1)
+    except Exception as e:
+        print(f"Failed To Parse LOC From README: {e}")
+    return loc
+
 def generate_data():
     gh_stats = fetch_github_stats("i8o8i-Developer")
     wk_stats = fetch_wakatime_stats()
+    uptime_str = get_uptime()
+    loc_str = get_lines_of_code()
+    current_year = str(datetime.date.today().year)
     
     return [
         ("title", "i8o8i@developer"),
         ("kv", "OS", "Windows, Linux, Android"),
-        ("kv", "Uptime", "18 years, 1 month, 10 days", "age_data"),
+        ("kv", "Uptime", uptime_str, "age_data"),
         ("kv", "Host", "i8o8i Solutions (Not Open To Hire)"),
         ("kv", "Role", "Full Stack Developer & AI/ML Engineer"),
         ("kv", "IDE", "VS Code, Antigravity IDE, Trae"),
@@ -114,9 +168,9 @@ def generate_data():
         ("blank",),
         ("section", "GitHub Stats"),
         ("combo", [("Repos", gh_stats["repos"], "repo_data"), ("Private", "0", "contrib_data"),
-                   ("2026 Contributions", gh_stats["contributions"], "commit_data")]),
+                   (f"{current_year} Contributions", gh_stats["contributions"], "commit_data")]),
         ("combo", [("Stars", gh_stats["stars"], "star_data"), ("Followers", gh_stats["followers"], "follower_data")]),
-        ("combo", [("Lines Written (WakaTime)", "31,400,000", "loc_data"),
+        ("combo", [("Lines Written (WakaTime)", loc_str, "loc_data"),
                    ("Hours Coded", wk_stats["hours"], "loc_add")]),
     ]
 
