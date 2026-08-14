@@ -149,6 +149,53 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 1 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      101 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+🌆 Daytime                      485 Commits            ████████░░░░░░░░░░░░░░░░░   33.68 %
+🌃 Evening                      633 Commits            ███████████░░░░░░░░░░░░░░   43.96 %
+🌙 Night                        221 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         223 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+Tuesday                        281 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Wednesday                      159 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Thursday                       170 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Friday                         185 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Saturday                       201 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Sunday                         221 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Dart                           5 Hrs 3 Mins           ████████████░░░░░░░░░░░░░   47.75 %
+Typescript                     1 Hr 58 Mins           █████░░░░░░░░░░░░░░░░░░░░   18.61 %
+Python                         41 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Kotlin                         38 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Ini                            33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+
+🔥 Editors:
+Antigravity Ide                10 Hrs 34 Mins         █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Isms-Nasss                     3 Hrs 56 Mins          █████████░░░░░░░░░░░░░░░░   37.20 %
+Moneta-Trail                   3 Hrs 34 Mins          ████████░░░░░░░░░░░░░░░░░   33.73 %
+Teachers-Portal                1 Hr 4 Mins            ███░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Minecraft-Server               38 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Internship Assesment           33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+
+💻 Operating System:
+Windows                        10 Hrs 34 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 14/08/2026 18:51:31 UTC
+ Last Updated On 14/08/2026 19:16:07 UTC
 <!--END_SECTION:waka-->
 ---
 
