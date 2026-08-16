@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-817%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-818%20hrs%201%20min-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.1%20Million%20Lines%20Of%20Code-blue)
 
@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 79.6 kB 
  > 
-> 🏆 Contributions Made In The Year : 2,114 In 2026 
+> 🏆 Contributions Made In The Year : 2,111 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -153,20 +153,20 @@ My Work Primarily Focuses On :
 
 ```text
 🌞 Morning                      101 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-🌆 Daytime                      485 Commits            ████████░░░░░░░░░░░░░░░░░   33.59 %
-🌃 Evening                      637 Commits            ███████████░░░░░░░░░░░░░░   44.11 %
-🌙 Night                        221 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.30 %
+🌆 Daytime                      485 Commits            ████████░░░░░░░░░░░░░░░░░   33.56 %
+🌃 Evening                      637 Commits            ███████████░░░░░░░░░░░░░░   44.08 %
+🌙 Night                        222 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         223 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Tuesday                        281 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Wednesday                      159 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Thursday                       170 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-Friday                         185 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Saturday                       201 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
-Sunday                         225 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Monday                         224 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Tuesday                        281 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.45 %
+Wednesday                      159 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Thursday                       170 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Friday                         185 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Saturday                       201 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Sunday                         225 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
 ```
 
 
@@ -176,24 +176,24 @@ Sunday                         225 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Dart                           5 Hrs 3 Mins           ███████████░░░░░░░░░░░░░░   44.27 %
-Typescript                     1 Hr 58 Mins           ████░░░░░░░░░░░░░░░░░░░░░   17.25 %
-Markdown                       48 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Python                         41 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Kotlin                         38 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Dart                           5 Hrs 3 Mins           █████████░░░░░░░░░░░░░░░░   34.64 %
+Python                         2 Hrs 59 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+Typescript                     1 Hr 1 Min             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Html                           56 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other                          48 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 
 🔥 Editors:
-Antigravity Ide                11 Hrs 24 Mins         █████████████████████████   100.00 %
+Antigravity Ide                14 Hrs 35 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Moneta-Trail                   4 Hrs                  █████████░░░░░░░░░░░░░░░░   35.19 %
-Isms-Nasss                     3 Hrs 56 Mins          █████████░░░░░░░░░░░░░░░░   34.48 %
-Teachers-Portal                1 Hr 4 Mins            ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-Minecraft-Server               38 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Internship Assesment           33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Moneta-Trail                   4 Hrs                  ███████░░░░░░░░░░░░░░░░░░   27.53 %
+Isms-Nasss                     3 Hrs 43 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.52 %
+Paroo                          3 Hrs 39 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.13 %
+Minecraft-Server               49 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Internship Assesment           33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 
 💻 Operating System:
-Windows                        11 Hrs 24 Mins         █████████████████████████   100.00 %
+Windows                        14 Hrs 35 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 16/08/2026 18:44:58 UTC
+ Last Updated On 16/08/2026 18:58:45 UTC
 <!--END_SECTION:waka-->
 ---
 
