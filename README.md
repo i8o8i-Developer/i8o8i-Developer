@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 79.9 kB 
  > 
-> 🏆 Contributions Made In The Year : 2,121 In 2026 
+> 🏆 Contributions Made In The Year : 2,125 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -176,24 +176,24 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Dart                           5 Hrs 3 Mins           █████████░░░░░░░░░░░░░░░░   34.64 %
-Python                         2 Hrs 59 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-Typescript                     1 Hr 1 Min             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Html                           56 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Other                          48 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Dart                           5 Hrs 3 Mins           █████████░░░░░░░░░░░░░░░░   34.05 %
+Python                         3 Hrs 30 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+Html                           56 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Other                          49 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Typescript                     46 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 
 🔥 Editors:
-Antigravity Ide                14 Hrs 35 Mins         █████████████████████████   100.00 %
+Antigravity Ide                14 Hrs 50 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Moneta-Trail                   4 Hrs                  ███████░░░░░░░░░░░░░░░░░░   27.53 %
-Isms-Nasss                     3 Hrs 43 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.52 %
-Paroo                          3 Hrs 39 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.13 %
-Minecraft-Server               49 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Internship Assesment           33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Isms-Nasss                     4 Hrs 6 Mins           ███████░░░░░░░░░░░░░░░░░░   27.69 %
+Paroo                          4 Hrs 3 Mins           ███████░░░░░░░░░░░░░░░░░░   27.39 %
+Moneta-Trail                   4 Hrs                  ███████░░░░░░░░░░░░░░░░░░   27.07 %
+Minecraft-Server               44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Internship Assesment           33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 
 💻 Operating System:
-Windows                        14 Hrs 35 Mins         █████████████████████████   100.00 %
+Windows                        14 Hrs 50 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 17/08/2026 18:04:17 UTC
+ Last Updated On 17/08/2026 18:55:48 UTC
 <!--END_SECTION:waka-->
 ---
 
