@@ -147,7 +147,7 @@ My Work Primarily Focuses On :
  > 
 > 📜 Public Repositories : 28 
  > 
-> 🔑 Private Repositories : 2 
+> 🔑 Private Repositories : 3 
  > 
 **I Am An Night Owls** 
 
@@ -199,11 +199,11 @@ Windows                        10 Hrs 3 Mins          ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         17 Repos               ███████████░░░░░░░░░░░░░░   42.50 %
-Typescript                     11 Repos               ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Shell                          1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python                         17 Repos               ██████████░░░░░░░░░░░░░░░   41.46 %
+Typescript                     12 Repos               ███████░░░░░░░░░░░░░░░░░░   29.27 %
+Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Shell                          1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 
@@ -213,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 20/08/2026 07:41:42 UTC
+ Last Updated On 20/08/2026 08:00:34 UTC
 <!--END_SECTION:waka-->
 ---
 
