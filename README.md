@@ -139,15 +139,15 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 80.5 kB 
+> 📦 Used In GitHub's Storage : 80.3 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,568 In 2026 
+> 🏆 Contributions Made In The Year : 1,566 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
 > 📜 Public Repositories : 28 
  > 
-> 🔑 Private Repositories : 4 
+> 🔑 Private Repositories : 3 
  > 
 **I Am An Night Owls** 
 
@@ -199,11 +199,11 @@ Windows                        10 Hrs 3 Mins          ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         17 Repos               ██████████░░░░░░░░░░░░░░░   40.48 %
-Typescript                     13 Repos               ████████░░░░░░░░░░░░░░░░░   30.95 %
-Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Shell                          1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Python                         17 Repos               ██████████░░░░░░░░░░░░░░░   41.46 %
+Typescript                     12 Repos               ███████░░░░░░░░░░░░░░░░░░   29.27 %
+Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Shell                          1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 
@@ -213,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 20/08/2026 11:27:33 UTC
+ Last Updated On 20/08/2026 11:42:22 UTC
 <!--END_SECTION:waka-->
 ---
 
