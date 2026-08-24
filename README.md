@@ -176,24 +176,24 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     12 Hrs 2 Mins          ██████████████░░░░░░░░░░░   54.59 %
-Python                         5 Hrs 8 Mins           ██████░░░░░░░░░░░░░░░░░░░   23.31 %
-Other                          1 Hr 1 Min             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Markdown                       50 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Nginx Configuration File       44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Typescript                     12 Hrs 59 Mins         ██████████████░░░░░░░░░░░   57.84 %
+Python                         5 Hrs 1 Min            ██████░░░░░░░░░░░░░░░░░░░   22.41 %
+Other                          1 Hr 2 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Nginx Configuration File       44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Docker                         32 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 
 🔥 Editors:
-Antigravity Ide                22 Hrs 3 Mins          █████████████████████████   100.00 %
+Antigravity Ide                22 Hrs 27 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     18 Hrs 42 Mins         █████████████████████░░░░   84.82 %
-Isms-Nasss                     2 Hrs 10 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Minecraft-Server               38 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Paroo                          27 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Unknown Project                4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Nimswallah                     20 Hrs 28 Mins         ███████████████████████░░   91.16 %
+Isms-Nasss                     1 Hr 14 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Minecraft-Server               36 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Unknown Project                4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Paroo                          3 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 
 💻 Operating System:
-Windows                        22 Hrs 3 Mins          █████████████████████████   100.00 %
+Windows                        22 Hrs 27 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 24/08/2026 18:42:38 UTC
+ Last Updated On 24/08/2026 19:03:06 UTC
 <!--END_SECTION:waka-->
 ---
 
