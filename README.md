@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 80.9 kB 
+> 📦 Used In GitHub's Storage : 81.0 kB 
  > 
 > 🏆 Contributions Made In The Year : 1,636 In 2026 
  > 
@@ -176,24 +176,23 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     15 Hrs 24 Mins         ██████████████░░░░░░░░░░░   56.29 %
-Python                         5 Hrs 51 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.40 %
-Markdown                       2 Hrs 5 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Other                          55 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Nginx Configuration File       45 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Typescript                     15 Hrs 49 Mins         ██████████████░░░░░░░░░░░   56.72 %
+Python                         5 Hrs 52 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.06 %
+Markdown                       2 Hrs 6 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Other                          55 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Nginx Configuration File       46 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 
 🔥 Editors:
-Antigravity Ide                27 Hrs 22 Mins         █████████████████████████   100.00 %
+Antigravity Ide                27 Hrs 53 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     26 Hrs 18 Mins         ████████████████████████░   96.08 %
-Minecraft-Server               28 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Isms-Nasss                     27 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Unknown Project                4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Paroo                          3 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Nimswallah                     26 Hrs 52 Mins         ████████████████████████░   96.35 %
+Minecraft-Server               28 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Isms-Nasss                     27 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Unknown Project                4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 
 💻 Operating System:
-Windows                        27 Hrs 22 Mins         █████████████████████████   100.00 %
+Windows                        27 Hrs 53 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +212,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 26/08/2026 18:47:23 UTC
+ Last Updated On 26/08/2026 19:28:19 UTC
 <!--END_SECTION:waka-->
 ---
 
