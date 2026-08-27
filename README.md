@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 80.9 kB 
+> 📦 Used In GitHub's Storage : 81.0 kB 
  > 
 > 🏆 Contributions Made In The Year : 1,641 In 2026 
  > 
@@ -176,23 +176,21 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     15 Hrs 49 Mins         ██████████████░░░░░░░░░░░   56.72 %
-Python                         5 Hrs 52 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.06 %
-Markdown                       2 Hrs 6 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Other                          55 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Nginx Configuration File       46 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Typescript                     14 Hrs 14 Mins         ███████████████░░░░░░░░░░   58.37 %
+Python                         5 Hrs 43 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Markdown                       1 Hr 58 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Nginx Configuration File       37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Other                          33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 
 🔥 Editors:
-Antigravity Ide                27 Hrs 53 Mins         █████████████████████████   100.00 %
+Antigravity Ide                24 Hrs 23 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     26 Hrs 52 Mins         ████████████████████████░   96.35 %
-Minecraft-Server               28 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Isms-Nasss                     27 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Unknown Project                4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Nimswallah                     23 Hrs 22 Mins         ████████████████████████░   95.81 %
+Isms-Nasss                     1 Hr 1 Min             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 
 💻 Operating System:
-Windows                        27 Hrs 53 Mins         █████████████████████████   100.00 %
+Windows                        24 Hrs 23 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -212,7 +210,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 27/08/2026 20:20:42 UTC
+ Last Updated On 27/08/2026 23:38:10 UTC
 <!--END_SECTION:waka-->
 ---
 
