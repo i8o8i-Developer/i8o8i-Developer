@@ -176,21 +176,21 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     14 Hrs 14 Mins         ███████████████░░░░░░░░░░   58.37 %
-Python                         5 Hrs 43 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-Markdown                       1 Hr 58 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-Nginx Configuration File       37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Other                          33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Typescript                     11 Hrs 9 Mins          ██████████████░░░░░░░░░░░   57.03 %
+Python                         4 Hrs 26 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.74 %
+Markdown                       1 Hr 58 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Other                          34 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Docker                         21 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 
 🔥 Editors:
-Antigravity Ide                24 Hrs 23 Mins         █████████████████████████   100.00 %
+Antigravity Ide                19 Hrs 33 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     23 Hrs 22 Mins         ████████████████████████░   95.81 %
-Isms-Nasss                     1 Hr 1 Min             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Nimswallah                     17 Hrs 2 Mins          ██████████████████████░░░   87.08 %
+Isms-Nasss                     2 Hrs 31 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
 
 💻 Operating System:
-Windows                        24 Hrs 23 Mins         █████████████████████████   100.00 %
+Windows                        19 Hrs 33 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -210,7 +210,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 28/08/2026 19:39:10 UTC
+ Last Updated On 28/08/2026 21:56:06 UTC
 <!--END_SECTION:waka-->
 ---
 
