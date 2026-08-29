@@ -147,26 +147,26 @@ My Work Primarily Focuses On :
  > 
 > 📜 Public Repositories : 28 
  > 
-> 🔑 Private Repositories : 3 
+> 🔑 Private Repositories : 2 
  > 
 **I Am An Night Owls** 
 
 ```text
-🌞 Morning                      103 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-🌆 Daytime                      557 Commits            █████████░░░░░░░░░░░░░░░░   34.53 %
-🌃 Evening                      704 Commits            ███████████░░░░░░░░░░░░░░   43.65 %
-🌙 Night                        249 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+🌞 Morning                      103 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+🌆 Daytime                      557 Commits            █████████░░░░░░░░░░░░░░░░   34.64 %
+🌃 Evening                      699 Commits            ███████████░░░░░░░░░░░░░░   43.47 %
+🌙 Night                        249 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         263 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Tuesday                        331 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-Wednesday                      166 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Friday                         198 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Saturday                       202 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Sunday                         236 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Monday                         263 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+Tuesday                        331 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+Wednesday                      166 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Friday                         193 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Saturday                       202 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Sunday                         236 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.68 %
 ```
 
 
@@ -196,11 +196,11 @@ Windows                        19 Hrs 33 Mins         ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         17 Repos               ██████████░░░░░░░░░░░░░░░   41.46 %
-Typescript                     12 Repos               ███████░░░░░░░░░░░░░░░░░░   29.27 %
-Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Shell                          1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Python                         17 Repos               ███████████░░░░░░░░░░░░░░   42.50 %
+Typescript                     12 Repos               ████████░░░░░░░░░░░░░░░░░   30.00 %
+Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Javascript                     1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 
@@ -210,7 +210,7 @@ Shell                          1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 29/08/2026 06:54:16 UTC
+ Last Updated On 29/08/2026 07:01:24 UTC
 <!--END_SECTION:waka-->
 ---
 
