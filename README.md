@@ -176,21 +176,23 @@ Sunday                         236 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     11 Hrs 9 Mins          ██████████████░░░░░░░░░░░   57.03 %
-Python                         4 Hrs 26 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.74 %
-Markdown                       1 Hr 58 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-Other                          34 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Docker                         21 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Typescript                     6 Hrs 38 Mins          █████████████░░░░░░░░░░░░   53.41 %
+Python                         2 Hrs 36 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.96 %
+Markdown                       1 Hr 39 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Other                          35 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Bash                           15 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 
 🔥 Editors:
-Antigravity Ide                19 Hrs 33 Mins         █████████████████████████   100.00 %
+Antigravity Ide                12 Hrs 25 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     17 Hrs 2 Mins          ██████████████████████░░░   87.08 %
-Isms-Nasss                     2 Hrs 31 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 %
+Nimswallah                     8 Hrs 11 Mins          ████████████████░░░░░░░░░   65.98 %
+Isms-Nasss                     3 Hrs 9 Mins           ██████░░░░░░░░░░░░░░░░░░░   25.38 %
+Teachers-Portal                41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Nasss-Website                  23 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 
 💻 Operating System:
-Windows                        19 Hrs 33 Mins         █████████████████████████   100.00 %
+Windows                        12 Hrs 25 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -210,7 +212,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 29/08/2026 18:32:49 UTC
+ Last Updated On 29/08/2026 18:41:32 UTC
 <!--END_SECTION:waka-->
 ---
 
