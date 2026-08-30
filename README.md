@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 81.2 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,642 In 2026 
+> 🏆 Contributions Made In The Year : 1,643 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -153,20 +153,20 @@ My Work Primarily Focuses On :
 
 ```text
 🌞 Morning                      102 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-🌆 Daytime                      562 Commits            █████████░░░░░░░░░░░░░░░░   34.82 %
-🌃 Evening                      701 Commits            ███████████░░░░░░░░░░░░░░   43.43 %
-🌙 Night                        249 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+🌆 Daytime                      562 Commits            █████████░░░░░░░░░░░░░░░░   34.80 %
+🌃 Evening                      701 Commits            ███████████░░░░░░░░░░░░░░   43.41 %
+🌙 Night                        250 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         263 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Tuesday                        318 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.70 %
-Wednesday                      166 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Monday                         264 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.35 %
+Tuesday                        318 Commits            █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+Wednesday                      166 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Friday                         193 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Friday                         193 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
 Saturday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Sunday                         240 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.87 %
+Sunday                         240 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.86 %
 ```
 
 
@@ -176,23 +176,23 @@ Sunday                         240 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     6 Hrs 38 Mins          █████████████░░░░░░░░░░░░   53.41 %
-Python                         2 Hrs 36 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.96 %
-Markdown                       1 Hr 39 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
-Other                          35 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Bash                           15 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Typescript                     6 Hrs 38 Mins          █████████████░░░░░░░░░░░░   51.53 %
+Python                         3 Hrs 4 Mins           ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Markdown                       1 Hr 39 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Other                          33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Html                           15 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 
 🔥 Editors:
-Antigravity Ide                12 Hrs 25 Mins         █████████████████████████   100.00 %
+Antigravity Ide                12 Hrs 53 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     8 Hrs 11 Mins          ████████████████░░░░░░░░░   65.98 %
-Isms-Nasss                     3 Hrs 9 Mins           ██████░░░░░░░░░░░░░░░░░░░   25.38 %
-Teachers-Portal                41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Nasss-Website                  23 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Nimswallah                     8 Hrs 9 Mins           ████████████████░░░░░░░░░   63.28 %
+Isms-Nasss                     3 Hrs 37 Mins          ███████░░░░░░░░░░░░░░░░░░   28.17 %
+Teachers-Portal                41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Nasss-Website                  25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 
 💻 Operating System:
-Windows                        12 Hrs 25 Mins         █████████████████████████   100.00 %
+Windows                        12 Hrs 53 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -212,7 +212,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 30/08/2026 18:32:34 UTC
+ Last Updated On 30/08/2026 18:41:39 UTC
 <!--END_SECTION:waka-->
 ---
 
