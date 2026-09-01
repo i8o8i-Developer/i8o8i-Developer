@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-860%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-860%20hrs%2040%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.2%20Million%20Lines%20Of%20Code-blue)
 
@@ -152,21 +152,21 @@ My Work Primarily Focuses On :
 **I Am An Night Owls** 
 
 ```text
-🌞 Morning                      102 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-🌆 Daytime                      574 Commits            ████████░░░░░░░░░░░░░░░░░   33.76 %
-🌃 Evening                      735 Commits            ███████████░░░░░░░░░░░░░░   43.24 %
-🌙 Night                        289 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.00 %
+🌞 Morning                      105 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+🌆 Daytime                      576 Commits            ████████░░░░░░░░░░░░░░░░░   33.61 %
+🌃 Evening                      736 Commits            ███████████░░░░░░░░░░░░░░   42.94 %
+🌙 Night                        297 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.33 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         304 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.88 %
-Tuesday                        363 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.35 %
-Wednesday                      166 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Friday                         193 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Saturday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Sunday                         240 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.12 %
+Monday                         304 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.74 %
+Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.24 %
+Wednesday                      168 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Friday                         193 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Saturday                       228 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Sunday                         240 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
 ```
 
 
@@ -176,24 +176,24 @@ Sunday                         240 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     8 Hrs 12 Mins          █████████████░░░░░░░░░░░░   53.89 %
-Python                         3 Hrs 30 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.02 %
-Markdown                       1 Hr 41 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Other                          46 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Html                           15 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Typescript                     7 Hrs 50 Mins          ███████████████░░░░░░░░░░   58.65 %
+Python                         2 Hrs 39 Mins          █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Other                          47 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Markdown                       35 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Html                           21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 
 🔥 Editors:
-Antigravity Ide                15 Hrs 14 Mins         █████████████████████████   100.00 %
+Antigravity Ide                13 Hrs 22 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     8 Hrs 16 Mins          ██████████████░░░░░░░░░░░   54.30 %
-Isms-Nasss                     5 Hrs 24 Mins          █████████░░░░░░░░░░░░░░░░   35.54 %
-Teachers-Portal                41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Nasss-Website                  26 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Ocr-Nasss                      20 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Isms-Nasss                     5 Hrs 51 Mins          ███████████░░░░░░░░░░░░░░   43.75 %
+Nimswallah                     4 Hrs 56 Mins          █████████░░░░░░░░░░░░░░░░   36.93 %
+Teachers-Portal                44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Durgonix-Dark-Theme            41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Ocr-Nasss                      37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 
 💻 Operating System:
-Windows                        15 Hrs 14 Mins         █████████████████████████   100.00 %
+Windows                        13 Hrs 22 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 01/09/2026 18:41:50 UTC
+ Last Updated On 01/09/2026 18:49:54 UTC
 <!--END_SECTION:waka-->
 ---
 
