@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 81.7 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,718 In 2026 
+> 🏆 Contributions Made In The Year : 1,719 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -200,10 +200,10 @@ Windows                        13 Hrs 22 Mins         ████████�
 
 ```text
 Python                         17 Repos               ███████████░░░░░░░░░░░░░░   43.59 %
-Typescript                     11 Repos               ███████░░░░░░░░░░░░░░░░░░   28.21 %
+Typescript                     10 Repos               ██████░░░░░░░░░░░░░░░░░░░   25.64 %
 Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Javascript                     1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 
@@ -213,7 +213,7 @@ Javascript                     1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 02/09/2026 13:43:59 UTC
+ Last Updated On 02/09/2026 13:51:16 UTC
 <!--END_SECTION:waka-->
 ---
 
