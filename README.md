@@ -176,24 +176,25 @@ Sunday                         240 Commits            ███░░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     7 Hrs 50 Mins          ███████████████░░░░░░░░░░   58.65 %
-Python                         2 Hrs 39 Mins          █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Other                          47 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Markdown                       35 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Html                           21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Typescript                     7 Hrs 38 Mins          ██████████████░░░░░░░░░░░   57.41 %
+Python                         2 Hrs 41 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+Other                          48 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Markdown                       33 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Json                           25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 
 🔥 Editors:
-Antigravity Ide                13 Hrs 22 Mins         █████████████████████████   100.00 %
+Antigravity Ide                13 Hrs 17 Mins         █████████████████████████   99.86 %
+Vs Code                        1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 
 🐱‍💻 Projects:
-Isms-Nasss                     5 Hrs 51 Mins          ███████████░░░░░░░░░░░░░░   43.75 %
-Nimswallah                     4 Hrs 56 Mins          █████████░░░░░░░░░░░░░░░░   36.93 %
-Teachers-Portal                44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Durgonix-Dark-Theme            41 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Ocr-Nasss                      37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Isms-Nasss                     5 Hrs 51 Mins          ███████████░░░░░░░░░░░░░░   43.96 %
+Nimswallah                     4 Hrs 38 Mins          █████████░░░░░░░░░░░░░░░░   34.93 %
+Durgonix-Dark-Theme            50 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Teachers-Portal                44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+Ocr-Nasss                      37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
 
 💻 Operating System:
-Windows                        13 Hrs 22 Mins         █████████████████████████   100.00 %
+Windows                        13 Hrs 18 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +214,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 02/09/2026 18:40:21 UTC
+ Last Updated On 02/09/2026 18:48:26 UTC
 <!--END_SECTION:waka-->
 ---
 
