@@ -200,11 +200,11 @@ Windows                        12 Hrs 17 Mins         ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         17 Repos               ███████████░░░░░░░░░░░░░░   43.59 %
-Typescript                     10 Repos               ██████░░░░░░░░░░░░░░░░░░░   25.64 %
-Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Python                         17 Repos               ███████████░░░░░░░░░░░░░░   42.50 %
+Typescript                     10 Repos               ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+Html                           6 Repos                ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 
@@ -214,7 +214,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 03/09/2026 19:32:02 UTC
+ Last Updated On 03/09/2026 19:40:23 UTC
 <!--END_SECTION:waka-->
 ---
 
