@@ -176,25 +176,25 @@ Sunday                         240 Commits            ███░░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     7 Hrs 8 Mins           ███████████████░░░░░░░░░░   58.17 %
-Python                         2 Hrs 33 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.89 %
-Markdown                       31 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Other                          26 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Json                           25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Typescript                     5 Hrs 50 Mins          ████████░░░░░░░░░░░░░░░░░   30.54 %
+Python                         4 Hrs 53 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.58 %
+Html                           1 Hr 31 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Dart                           1 Hr 30 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Javascript                     1 Hr 10 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 
 🔥 Editors:
-Antigravity Ide                12 Hrs 16 Mins         █████████████████████████   99.85 %
-Vs Code                        1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Antigravity Ide                19 Hrs 5 Mins          █████████████████████████   99.90 %
+Vs Code                        1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 
 🐱‍💻 Projects:
-Isms-Nasss                     4 Hrs 49 Mins          ██████████░░░░░░░░░░░░░░░   39.30 %
-Nimswallah                     4 Hrs 38 Mins          █████████░░░░░░░░░░░░░░░░   37.84 %
-Durgonix-Dark-Theme            50 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Teachers-Portal                44 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Ocr-Nasss                      37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Ssta-Walkietalkie              8 Hrs 19 Mins          ███████████░░░░░░░░░░░░░░   43.54 %
+Nimswallah                     4 Hrs 38 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Isms-Nasss                     3 Hrs 19 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
+Durgonix-Dark-Theme            50 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Teachers-Portal                44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 
 💻 Operating System:
-Windows                        12 Hrs 17 Mins         █████████████████████████   100.00 %
+Windows                        19 Hrs 6 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -214,7 +214,7 @@ Javascript                     2 Repos                █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 04/09/2026 18:34:39 UTC
+ Last Updated On 04/09/2026 18:44:08 UTC
 <!--END_SECTION:waka-->
 ---
 
