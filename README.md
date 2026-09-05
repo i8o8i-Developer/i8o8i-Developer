@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-871%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-871%20hrs%2020%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.2%20Million%20Lines%20Of%20Code-blue)
 
@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 83.0 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,745 In 2026 
+> 🏆 Contributions Made In The Year : 1,770 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -152,21 +152,21 @@ My Work Primarily Focuses On :
 **I Am An Night Owls** 
 
 ```text
-🌞 Morning                      105 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-🌆 Daytime                      585 Commits            ████████░░░░░░░░░░░░░░░░░   33.52 %
-🌃 Evening                      758 Commits            ███████████░░░░░░░░░░░░░░   43.44 %
-🌙 Night                        297 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.02 %
+🌞 Morning                      105 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+🌆 Daytime                      585 Commits            ████████░░░░░░░░░░░░░░░░░   33.51 %
+🌃 Evening                      758 Commits            ███████████░░░░░░░░░░░░░░   43.41 %
+🌙 Night                        298 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         304 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.42 %
-Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.86 %
+Monday                         304 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.41 %
+Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.85 %
 Wednesday                      170 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
 Friday                         207 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Saturday                       243 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Sunday                         240 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Saturday                       243 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Sunday                         241 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.80 %
 ```
 
 
@@ -176,25 +176,25 @@ Sunday                         240 Commits            ███░░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     5 Hrs 50 Mins          ████████░░░░░░░░░░░░░░░░░   30.54 %
-Python                         4 Hrs 53 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.58 %
-Html                           1 Hr 31 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Dart                           1 Hr 30 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Javascript                     1 Hr 10 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+Typescript                     5 Hrs 25 Mins          ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Python                         4 Hrs 47 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+Dart                           1 Hr 58 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Html                           1 Hr 34 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Javascript                     1 Hr 28 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
 
 🔥 Editors:
-Antigravity Ide                19 Hrs 5 Mins          █████████████████████████   99.90 %
+Antigravity Ide                19 Hrs 29 Mins         █████████████████████████   99.90 %
 Vs Code                        1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 
 🐱‍💻 Projects:
-Ssta-Walkietalkie              8 Hrs 19 Mins          ███████████░░░░░░░░░░░░░░   43.54 %
-Nimswallah                     4 Hrs 38 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Isms-Nasss                     3 Hrs 19 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.39 %
-Durgonix-Dark-Theme            50 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Teachers-Portal                44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Ssta-Walkietalkie              10 Hrs 2 Mins          █████████████░░░░░░░░░░░░   51.48 %
+Nimswallah                     5 Hrs 1 Min            ██████░░░░░░░░░░░░░░░░░░░   25.76 %
+Isms-Nasss                     2 Hrs 41 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 %
+Durgonix-Dark-Theme            50 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Ocr-Nasss                      37 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 
 💻 Operating System:
-Windows                        19 Hrs 6 Mins          █████████████████████████   100.00 %
+Windows                        19 Hrs 30 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -214,7 +214,7 @@ Dart                           2 Repos                █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 05/09/2026 18:33:02 UTC
+ Last Updated On 05/09/2026 18:43:13 UTC
 <!--END_SECTION:waka-->
 ---
 
