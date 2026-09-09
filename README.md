@@ -149,54 +149,6 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 3 
  > 
-**I Am An Night Owls** 
-
-```text
-🌞 Morning                      105 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-🌆 Daytime                      600 Commits            ████████░░░░░░░░░░░░░░░░░   33.75 %
-🌃 Evening                      759 Commits            ███████████░░░░░░░░░░░░░░   42.69 %
-🌙 Night                        314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
-```
-📅 **I Am Most Productive On Tuesday** 
-
-```text
-Monday                         314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
-Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-Wednesday                      176 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Friday                         207 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Saturday                       243 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Sunday                         257 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
-```
-
-
-📊 **This Week I Spent Time On** 
-
-```text
-🕑︎ Timezone: Asia/Kolkata
-
-💬 Languages:
-Python                         3 Hrs 46 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Dart                           3 Hrs 16 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.10 %
-Javascript                     2 Hrs 5 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Html                           2 Hrs 3 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Typescript                     1 Hr 7 Mins            ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-
-🔥 Editors:
-Antigravity Ide                15 Hrs 30 Mins         █████████████████████████   99.88 %
-Vs Code                        1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-
-🐱‍💻 Projects:
-Ssta-Walkietalkie              13 Hrs 30 Mins         ██████████████████████░░░   87.00 %
-Nimswallah                     1 Hr 47 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Durgonix-Dark-Theme            8 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Moneta-Trail                   4 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Unknown Project                0 Secs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-
-💻 Operating System:
-Windows                        15 Hrs 31 Mins         █████████████████████████   100.00 %
-```
-
 *I Mostly Code In Python** 
 
 ```text
@@ -214,7 +166,7 @@ Dart                           2 Repos                █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 09/09/2026 18:25:39 UTC
+ Last Updated On 09/09/2026 18:47:37 UTC
 <!--END_SECTION:waka-->
 ---
 
