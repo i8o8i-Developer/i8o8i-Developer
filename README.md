@@ -149,6 +149,53 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 3 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      105 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+🌆 Daytime                      600 Commits            ████████░░░░░░░░░░░░░░░░░   33.75 %
+🌃 Evening                      759 Commits            ███████████░░░░░░░░░░░░░░   42.69 %
+🌙 Night                        314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.66 %
+Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Wednesday                      176 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Thursday                       217 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Friday                         207 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Saturday                       243 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Sunday                         257 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.45 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Python                         3 Hrs 53 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Dart                           3 Hrs 30 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.50 %
+Html                           2 Hrs 12 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Javascript                     2 Hrs 5 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Typescript                     1 Hr 44 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+
+🔥 Editors:
+Antigravity Ide                16 Hrs 17 Mins         █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Ssta-Walkietalkie              13 Hrs 51 Mins         █████████████████████░░░░   85.15 %
+Nimswallah                     2 Hrs 8 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Isms-Nasss                     16 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Unknown Project                0 Secs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Doc-Portal                     0 Secs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+💻 Operating System:
+Windows                        16 Hrs 17 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +213,7 @@ Dart                           2 Repos                █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 09/09/2026 18:47:37 UTC
+ Last Updated On 09/09/2026 18:55:02 UTC
 <!--END_SECTION:waka-->
 ---
 
