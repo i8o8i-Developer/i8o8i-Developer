@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 84.0 kB 
+> 📦 Used In GitHub's Storage : 84.1 kB 
  > 
 > 🏆 Contributions Made In The Year : 1,799 In 2026 
  > 
@@ -176,24 +176,23 @@ Sunday                         257 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Python                         4 Hrs 1 Min            ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-Dart                           3 Hrs 30 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.15 %
-Html                           2 Hrs 12 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Javascript                     2 Hrs 5 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Typescript                     1 Hr 53 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Typescript                     1 Hr 53 Mins           ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+Dart                           1 Hr 46 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.28 %
+Python                         1 Hr 32 Mins           █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Html                           1 Hr 2 Mins            ███░░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Javascript                     54 Mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
 
 🔥 Editors:
-Antigravity Ide                16 Hrs 33 Mins         █████████████████████████   100.00 %
+Antigravity Ide                7 Hrs 56 Mins          █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Ssta-Walkietalkie              13 Hrs 51 Mins         █████████████████████░░░░   83.75 %
-Nimswallah                     2 Hrs 24 Mins          ████░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Isms-Nasss                     16 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Unknown Project                0 Secs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Ssta-Walkietalkie              5 Hrs 15 Mins          █████████████████░░░░░░░░   66.18 %
+Nimswallah                     2 Hrs 24 Mins          ████████░░░░░░░░░░░░░░░░░   30.44 %
+Isms-Nasss                     16 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 Doc-Portal                     0 Secs                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
 💻 Operating System:
-Windows                        16 Hrs 33 Mins         █████████████████████████   100.00 %
+Windows                        7 Hrs 56 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +212,7 @@ Dart                           2 Repos                █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 11/09/2026 18:36:10 UTC
+ Last Updated On 11/09/2026 18:45:53 UTC
 <!--END_SECTION:waka-->
 ---
 
