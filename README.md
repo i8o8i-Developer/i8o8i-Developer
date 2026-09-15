@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-886%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-886%20hrs%2048%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.2%20Million%20Lines%20Of%20Code-blue)
 
@@ -145,9 +145,9 @@ My Work Primarily Focuses On :
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
-> 📜 Public Repositories : 30 
+> 📜 Public Repositories : 29 
  > 
-> 🔑 Private Repositories : 3 
+> 🔑 Private Repositories : 4 
  > 
 **I Am An Night Owls** 
 
@@ -199,11 +199,11 @@ Windows                        10 Hrs 25 Mins         ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         17 Repos               ███████████░░░░░░░░░░░░░░   42.50 %
-Typescript                     11 Repos               ███████░░░░░░░░░░░░░░░░░░   27.50 %
-Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Python                         18 Repos               ███████████░░░░░░░░░░░░░░   43.90 %
+Typescript                     11 Repos               ███████░░░░░░░░░░░░░░░░░░   26.83 %
+Html                           5 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 15/09/2026 08:00:18 UTC
+ Last Updated On 15/09/2026 08:29:26 UTC
 <!--END_SECTION:waka-->
 ---
 
