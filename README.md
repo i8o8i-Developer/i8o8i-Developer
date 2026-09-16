@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-888%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-888%20hrs%2048%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.3%20Million%20Lines%20Of%20Code-blue)
 
@@ -149,6 +149,53 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 4 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      106 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+🌆 Daytime                      614 Commits            █████████░░░░░░░░░░░░░░░░   34.13 %
+🌃 Evening                      765 Commits            ███████████░░░░░░░░░░░░░░   42.52 %
+🌙 Night                        314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.45 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.45 %
+Tuesday                        364 Commits            █████░░░░░░░░░░░░░░░░░░░░   20.23 %
+Wednesday                      177 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Thursday                       218 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Friday                         207 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Saturday                       248 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.79 %
+Sunday                         271 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.06 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Typescript                     6 Hrs 42 Mins          ██████████████░░░░░░░░░░░   55.75 %
+Python                         2 Hrs 59 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.86 %
+Markdown                       48 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Yaml                           21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Git                            14 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+
+🔥 Editors:
+Antigravity Ide                12 Hrs 1 Min           █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Nimswallah                     6 Hrs 32 Mins          ██████████████░░░░░░░░░░░   54.34 %
+Nexus-Prototype                4 Hrs 21 Mins          █████████░░░░░░░░░░░░░░░░   36.23 %
+Isms-Nasss                     38 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Unknown Project                19 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Teachers-Portal                9 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+
+💻 Operating System:
+Windows                        12 Hrs 1 Min           █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 16/09/2026 18:53:04 UTC
+ Last Updated On 16/09/2026 19:00:24 UTC
 <!--END_SECTION:waka-->
 ---
 
