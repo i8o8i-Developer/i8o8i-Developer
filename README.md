@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 90.3 kB 
+> 📦 Used In GitHub's Storage : 90.2 kB 
  > 
 > 🏆 Contributions Made In The Year : 1,715 In 2026 
  > 
@@ -176,24 +176,24 @@ Sunday                         271 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Markdown                       4 Hrs 1 Min            ███████████░░░░░░░░░░░░░░   43.64 %
-Typescript                     2 Hrs 46 Mins          ████████░░░░░░░░░░░░░░░░░   30.09 %
-Python                         1 Hr 41 Mins           █████░░░░░░░░░░░░░░░░░░░░   18.42 %
-Json                           16 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Yaml                           14 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Typescript                     4 Hrs 48 Mins          █████████░░░░░░░░░░░░░░░░   34.95 %
+Markdown                       3 Hrs 48 Mins          ███████░░░░░░░░░░░░░░░░░░   27.68 %
+Python                         3 Hrs 29 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.43 %
+Other                          40 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Powershell                     21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 
 🔥 Editors:
-Antigravity Ide                9 Hrs 12 Mins          █████████████████████████   100.00 %
+Antigravity Ide                13 Hrs 45 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nexus-Prototype                4 Hrs 34 Mins          ████████████░░░░░░░░░░░░░   49.72 %
-Nimswallah                     1 Hr 24 Mins           ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-Isms-Nasss                     1 Hr 23 Mins           ████░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Ml Intern                      43 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Paroo                          19 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Isms-Nasss                     6 Hrs 37 Mins          ████████████░░░░░░░░░░░░░   48.21 %
+Nexus-Prototype                3 Hrs 3 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.19 %
+Nimswallah                     1 Hr 24 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Ml Intern                      43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 
 💻 Operating System:
-Windows                        9 Hrs 12 Mins          █████████████████████████   100.00 %
+Windows                        13 Hrs 45 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 22/09/2026 18:22:18 UTC
+ Last Updated On 22/09/2026 18:49:08 UTC
 <!--END_SECTION:waka-->
 ---
 
