@@ -176,24 +176,24 @@ Sunday                         271 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     4 Hrs 48 Mins          █████████░░░░░░░░░░░░░░░░   34.95 %
-Markdown                       3 Hrs 48 Mins          ███████░░░░░░░░░░░░░░░░░░   27.68 %
-Python                         3 Hrs 29 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.43 %
-Other                          40 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Powershell                     21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Typescript                     4 Hrs 47 Mins          █████████░░░░░░░░░░░░░░░░   35.35 %
+Markdown                       3 Hrs 25 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.25 %
+Python                         3 Hrs 24 Mins          ██████░░░░░░░░░░░░░░░░░░░   25.08 %
+Other                          49 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Powershell                     21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 
 🔥 Editors:
-Antigravity Ide                13 Hrs 45 Mins         █████████████████████████   100.00 %
+Antigravity Ide                13 Hrs 33 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Isms-Nasss                     6 Hrs 37 Mins          ████████████░░░░░░░░░░░░░   48.21 %
-Nexus-Prototype                3 Hrs 3 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.19 %
-Nimswallah                     1 Hr 24 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Ml Intern                      43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Isms-Nasss                     7 Hrs 10 Mins          █████████████░░░░░░░░░░░░   52.89 %
+Nexus-Prototype                2 Hrs 22 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.51 %
+Nimswallah                     1 Hr 24 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Ml Intern                      43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 
 💻 Operating System:
-Windows                        13 Hrs 45 Mins         █████████████████████████   100.00 %
+Windows                        13 Hrs 33 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 23/09/2026 18:45:50 UTC
+ Last Updated On 23/09/2026 18:53:56 UTC
 <!--END_SECTION:waka-->
 ---
 
