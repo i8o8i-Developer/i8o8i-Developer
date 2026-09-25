@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-901%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-905%20hrs%2054%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.4%20Million%20Lines%20Of%20Code-blue)
 
@@ -176,24 +176,24 @@ Sunday                         271 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     4 Hrs 48 Mins          ███████████░░░░░░░░░░░░░░   44.15 %
-Python                         3 Hrs 18 Mins          ████████░░░░░░░░░░░░░░░░░   30.39 %
-Other                          49 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-Markdown                       45 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Powershell                     21 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Typescript                     3 Hrs 32 Mins          ███████░░░░░░░░░░░░░░░░░░   27.22 %
+Python                         3 Hrs 13 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.76 %
+Markdown                       2 Hrs 2 Mins           ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Html                           1 Hr 51 Mins           ████░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Other                          47 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 
 🔥 Editors:
-Antigravity Ide                10 Hrs 54 Mins         █████████████████████████   100.00 %
+Antigravity Ide                13 Hrs                 █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Isms-Nasss                     7 Hrs 10 Mins          ████████████████░░░░░░░░░   65.77 %
-Nimswallah                     1 Hr 24 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.97 %
-Safe-Windows-Repair            44 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Ml Intern                      43 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Paroo                          20 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Isms-Nasss                     7 Hrs 6 Mins           ██████████████░░░░░░░░░░░   54.71 %
+Happybirthdayshuchi            3 Hrs 34 Mins          ███████░░░░░░░░░░░░░░░░░░   27.49 %
+Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Ypc                            29 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Ml Intern                      22 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 
 💻 Operating System:
-Windows                        10 Hrs 54 Mins         █████████████████████████   100.00 %
+Windows                        13 Hrs                 █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 25/09/2026 18:35:57 UTC
+ Last Updated On 25/09/2026 18:47:38 UTC
 <!--END_SECTION:waka-->
 ---
 
