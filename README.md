@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 90.4 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,723 In 2026 
+> 🏆 Contributions Made In The Year : 1,735 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -176,24 +176,24 @@ Sunday                         288 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     3 Hrs 32 Mins          ███████░░░░░░░░░░░░░░░░░░   26.82 %
-Python                         3 Hrs 11 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-Html                           2 Hrs 20 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.81 %
-Markdown                       1 Hr 44 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.16 %
-Other                          51 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Typescript                     5 Hrs 3 Mins           █████████░░░░░░░░░░░░░░░░   34.05 %
+Python                         3 Hrs 16 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.02 %
+Html                           2 Hrs 22 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Markdown                       1 Hr 44 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Other                          51 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 
 🔥 Editors:
-Antigravity Ide                13 Hrs 11 Mins         █████████████████████████   100.00 %
+Antigravity Ide                14 Hrs 50 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Isms-Nasss                     7 Hrs 6 Mins           █████████████░░░░░░░░░░░░   53.92 %
-Happybirthdayshuchi            4 Hrs 4 Mins           ████████░░░░░░░░░░░░░░░░░   30.87 %
-Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Ypc                            29 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-Paroo                          20 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Isms-Nasss                     7 Hrs 12 Mins          ████████████░░░░░░░░░░░░░   48.51 %
+Happybirthdayshuchi            4 Hrs 4 Mins           ███████░░░░░░░░░░░░░░░░░░   27.44 %
+Nasss-Website                  1 Hr 30 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Safe-Windows-Repair            44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Ypc                            29 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 
 💻 Operating System:
-Windows                        13 Hrs 11 Mins         █████████████████████████   100.00 %
+Windows                        14 Hrs 50 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 27/09/2026 18:37:44 UTC
+ Last Updated On 27/09/2026 18:49:03 UTC
 <!--END_SECTION:waka-->
 ---
 
