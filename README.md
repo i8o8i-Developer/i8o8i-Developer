@@ -176,24 +176,24 @@ Sunday                         288 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     3 Hrs 15 Mins          ████████░░░░░░░░░░░░░░░░░   32.93 %
-Html                           2 Hrs 45 Mins          ███████░░░░░░░░░░░░░░░░░░   27.81 %
-Markdown                       1 Hr 37 Mins           ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Python                         46 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Nginx Configuration File       14 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Typescript                     3 Hrs 59 Mins          ██████████████░░░░░░░░░░░   54.24 %
+Html                           1 Hr 32 Mins           █████░░░░░░░░░░░░░░░░░░░░   20.83 %
+Python                         32 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Nginx Configuration File       14 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Markdown                       11 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 
 🔥 Editors:
-Antigravity Ide                9 Hrs 54 Mins          █████████████████████████   100.00 %
+Antigravity Ide                7 Hrs 22 Mins          █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Happybirthdayshuchi            3 Hrs 55 Mins          ██████████░░░░░░░░░░░░░░░   39.59 %
-Nasss-Website                  3 Hrs 44 Mins          █████████░░░░░░░░░░░░░░░░   37.84 %
-Doc-Portal                     31 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Ypc                            29 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Isms-Nasss                     19 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Nasss-Website                  3 Hrs 44 Mins          █████████████░░░░░░░░░░░░   50.83 %
+Ds-Website                     1 Hr 31 Mins           █████░░░░░░░░░░░░░░░░░░░░   20.67 %
+Doc-Portal                     31 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Happybirthdayshuchi            29 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Isms-Nasss                     19 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 
 💻 Operating System:
-Windows                        9 Hrs 54 Mins          █████████████████████████   100.00 %
+Windows                        7 Hrs 22 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 02/10/2026 18:45:19 UTC
+ Last Updated On 02/10/2026 18:56:22 UTC
 <!--END_SECTION:waka-->
 ---
 
