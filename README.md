@@ -141,7 +141,7 @@ My Work Primarily Focuses On :
 
 > 📦 Used In GitHub's Storage : 124.0 kB 
  > 
-> 🏆 Contributions Made In The Year : 1,943 In 2026 
+> 🏆 Contributions Made In The Year : 1,947 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
@@ -176,24 +176,24 @@ Sunday                         322 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     16 Hrs 9 Mins          ███████████████░░░░░░░░░░   61.46 %
-Python                         4 Hrs 33 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.34 %
-Html                           1 Hr 16 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Markdown                       44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Yaml                           43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Typescript                     16 Hrs 16 Mins         █████████████░░░░░░░░░░░░   52.69 %
+Python                         4 Hrs 51 Mins          ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
+C++                            3 Hrs 28 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Html                           2 Hrs 12 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Yaml                           44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 
 🔥 Editors:
-Antigravity Ide                26 Hrs 17 Mins         █████████████████████████   100.00 %
+Antigravity Ide                30 Hrs 53 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Dan-Utsav                      21 Hrs                 ████████████████████░░░░░   79.88 %
-Ds-Website                     4 Hrs 15 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Voip-Server                    16 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Nimswallah                     14 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Isms-Nasss                     9 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Dan-Utsav                      22 Hrs 13 Mins         ██████████████████░░░░░░░   71.97 %
+Robo-Eye-Project               4 Hrs 8 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.44 %
+Ds-Website                     3 Hrs 39 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Voip-Server                    14 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Nimswallah                     9 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 
 💻 Operating System:
-Windows                        26 Hrs 17 Mins         █████████████████████████   100.00 %
+Windows                        30 Hrs 53 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 08/10/2026 18:48:59 UTC
+ Last Updated On 08/10/2026 19:00:29 UTC
 <!--END_SECTION:waka-->
 ---
 
