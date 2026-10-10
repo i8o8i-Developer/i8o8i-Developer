@@ -176,24 +176,24 @@ Sunday                         318 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     17 Hrs 39 Mins         █████████████░░░░░░░░░░░░   52.21 %
-Python                         5 Hrs 50 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.26 %
-C++                            4 Hrs 21 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
-Html                           2 Hrs 15 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Yaml                           44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Typescript                     14 Hrs                 ███████████░░░░░░░░░░░░░░   44.28 %
+C++                            6 Hrs 29 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Python                         4 Hrs 18 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Html                           3 Hrs 41 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Markdown                       31 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 
 🔥 Editors:
-Antigravity Ide                33 Hrs 48 Mins         █████████████████████████   100.00 %
+Antigravity Ide                31 Hrs 38 Mins         █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Dan-Utsav                      23 Hrs 10 Mins         █████████████████░░░░░░░░   68.55 %
-Robo-Eye-Project               5 Hrs 42 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
-Ds-Website                     3 Hrs 59 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Unknown Project                39 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Isms-Nasss                     9 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Dan-Utsav                      15 Hrs 44 Mins         ████████████░░░░░░░░░░░░░   49.77 %
+Robo-Eye-Project               5 Hrs 42 Mins          █████░░░░░░░░░░░░░░░░░░░░   18.01 %
+Ds-Website                     4 Hrs 38 Mins          ████░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Shuchi-Gift                    3 Hrs 47 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Unknown Project                1 Hr 27 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 
 💻 Operating System:
-Windows                        33 Hrs 48 Mins         █████████████████████████   100.00 %
+Windows                        31 Hrs 38 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 10/10/2026 18:41:01 UTC
+ Last Updated On 10/10/2026 18:53:32 UTC
 <!--END_SECTION:waka-->
 ---
 
