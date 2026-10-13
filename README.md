@@ -149,53 +149,6 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 6 
  > 
-**I Am An Night Owls** 
-
-```text
-🌞 Morning                      135 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-🌆 Daytime                      744 Commits            █████████░░░░░░░░░░░░░░░░   34.36 %
-🌃 Evening                      816 Commits            █████████░░░░░░░░░░░░░░░░   37.69 %
-🌙 Night                        470 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.71 %
-```
-📅 **I Am Most Productive On Tuesday** 
-
-```text
-Monday                         365 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
-Tuesday                        510 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Wednesday                      183 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Thursday                       224 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Friday                         245 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Saturday                       314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
-Sunday                         324 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.97 %
-```
-
-
-📊 **This Week I Spent Time On** 
-
-```text
-🕑︎ Timezone: Asia/Kolkata
-
-💬 Languages:
-Typescript                     13 Hrs 47 Mins         ██████████░░░░░░░░░░░░░░░   38.84 %
-C++                            8 Hrs 19 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Python                         5 Hrs 8 Mins           ████░░░░░░░░░░░░░░░░░░░░░   14.47 %
-Html                           4 Hrs 7 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-Markdown                       1 Hr 10 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-
-🔥 Editors:
-Antigravity Ide                35 Hrs 31 Mins         █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-Dan-Utsav                      13 Hrs 33 Mins         ██████████░░░░░░░░░░░░░░░   38.18 %
-Shuchi-Gift                    6 Hrs 1 Min            ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
-Robo-Eye-Project               5 Hrs 42 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Isms-Nasss                     4 Hrs 10 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
-Unknown Project                2 Hrs 29 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-
-💻 Operating System:
-Windows                        35 Hrs 31 Mins         █████████████████████████   100.00 %
-```
-
 *I Mostly Code In Python** 
 
 ```text
@@ -213,7 +166,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 13/10/2026 18:48:25 UTC
+ Last Updated On 13/10/2026 18:59:45 UTC
 <!--END_SECTION:waka-->
 ---
 
