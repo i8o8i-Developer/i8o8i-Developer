@@ -133,13 +133,13 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-960%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-960%20hrs%2019%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.5%20Million%20Lines%20Of%20Code-blue)
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 128.4 kB 
+> 📦 Used In GitHub's Storage : 128.3 kB 
  > 
 > 🏆 Contributions Made In The Year : 2,035 In 2026 
  > 
@@ -149,6 +149,53 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 6 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      135 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+🌆 Daytime                      744 Commits            █████████░░░░░░░░░░░░░░░░   34.36 %
+🌃 Evening                      816 Commits            █████████░░░░░░░░░░░░░░░░   37.69 %
+🌙 Night                        470 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.71 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         365 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.86 %
+Tuesday                        510 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Wednesday                      183 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Thursday                       224 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Friday                         245 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Saturday                       314 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Sunday                         324 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.97 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+C++                            8 Hrs 20 Mins          ████████░░░░░░░░░░░░░░░░░   30.94 %
+Typescript                     7 Hrs 12 Mins          ███████░░░░░░░░░░░░░░░░░░   26.71 %
+Python                         4 Hrs 20 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Html                           4 Hrs 12 Mins          ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
+Markdown                       1 Hr 22 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+
+🔥 Editors:
+Antigravity Ide                26 Hrs 58 Mins         █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Shuchi-Gift                    6 Hrs 3 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.48 %
+Robo-Eye-Project               5 Hrs 42 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.13 %
+Isms-Nasss                     4 Hrs 36 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
+Dan-Utsav                      3 Hrs 39 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Unknown Project                2 Hrs 45 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+
+💻 Operating System:
+Windows                        26 Hrs 58 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 13/10/2026 18:59:45 UTC
+ Last Updated On 13/10/2026 19:17:21 UTC
 <!--END_SECTION:waka-->
 ---
 
