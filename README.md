@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-965%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-966%20hrs%2011%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.5%20Million%20Lines%20Of%20Code-blue)
 
@@ -176,24 +176,24 @@ Sunday                         324 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     4 Hrs 53 Mins          ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Python                         4 Hrs 14 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.79 %
-C++                            4 Hrs 10 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Html                           2 Hrs 52 Mins          ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Markdown                       1 Hr 27 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Typescript                     4 Hrs 43 Mins          ███████░░░░░░░░░░░░░░░░░░   29.51 %
+Python                         4 Hrs 28 Mins          ███████░░░░░░░░░░░░░░░░░░   27.94 %
+C++                            2 Hrs 1 Min            ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Html                           1 Hr 19 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+Markdown                       1 Hr 7 Mins            ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 
 🔥 Editors:
-Antigravity Ide                20 Hrs 24 Mins         █████████████████████████   100.00 %
+Antigravity Ide                16 Hrs                 █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Shuchi-Gift                    8 Hrs 1 Min            ██████████░░░░░░░░░░░░░░░   39.32 %
-Isms-Nasss                     4 Hrs 36 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.56 %
-Lms                            3 Hrs 7 Mins           ████░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Unknown Project                2 Hrs 14 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Ocr-Nasss                      58 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Isms-Nasss                     5 Hrs 27 Mins          █████████░░░░░░░░░░░░░░░░   34.10 %
+Shuchi-Gift                    4 Hrs 13 Mins          ███████░░░░░░░░░░░░░░░░░░   26.41 %
+Lms                            3 Hrs 7 Mins           █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Unknown Project                1 Hr 26 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+Ocr-Nasss                      58 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 
 💻 Operating System:
-Windows                        20 Hrs 24 Mins         █████████████████████████   100.00 %
+Windows                        16 Hrs                 █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 17/10/2026 18:34:42 UTC
+ Last Updated On 17/10/2026 18:44:36 UTC
 <!--END_SECTION:waka-->
 ---
 
