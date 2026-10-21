@@ -199,11 +199,11 @@ Windows                        26 Hrs 49 Mins         ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         19 Repos               ██████████░░░░░░░░░░░░░░░   40.43 %
-Typescript                     15 Repos               ████████░░░░░░░░░░░░░░░░░   31.91 %
-Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Jupyter Notebook               1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python                         19 Repos               ██████████░░░░░░░░░░░░░░░   39.58 %
+Typescript                     16 Repos               ████████░░░░░░░░░░░░░░░░░   33.33 %
+Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Jupyter Notebook               1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 21/10/2026 23:41:35 UTC
+ Last Updated On 21/10/2026 23:48:31 UTC
 <!--END_SECTION:waka-->
 ---
 
