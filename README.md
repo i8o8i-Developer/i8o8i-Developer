@@ -149,6 +149,53 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 6 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      142 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+🌆 Daytime                      830 Commits            █████████░░░░░░░░░░░░░░░░   34.76 %
+🌃 Evening                      882 Commits            █████████░░░░░░░░░░░░░░░░   36.93 %
+🌙 Night                        534 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.36 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         399 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.71 %
+Tuesday                        587 Commits            ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+Wednesday                      226 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Thursday                       252 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Friday                         258 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Saturday                       324 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.57 %
+Sunday                         342 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.32 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Typescript                     17 Hrs 27 Mins         ██████████████████░░░░░░░   70.72 %
+Python                         3 Hrs 12 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Yaml                           45 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Bash                           40 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Html                           30 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+
+🔥 Editors:
+Antigravity Ide                24 Hrs 40 Mins         █████████████████████████   100.00 %
+
+🐱‍💻 Projects:
+Nimswallah                     20 Hrs 26 Mins         █████████████████████░░░░   82.80 %
+Shuchi-Gift                    1 Hr 33 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Isms-Nasss                     1 Hr 29 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Ds-Website                     43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Unknown Project                21 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+
+💻 Operating System:
+Windows                        24 Hrs 40 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +213,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 22/10/2026 18:50:31 UTC
+ Last Updated On 22/10/2026 18:59:48 UTC
 <!--END_SECTION:waka-->
 ---
 
