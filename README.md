@@ -133,40 +133,40 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C007%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C016%20hrs%2023%20mins-blue)
 
-![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.5%20Million%20Lines%20Of%20Code-blue)
+![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.6%20Million%20Lines%20Of%20Code-blue)
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 131.6 kB 
+> 📦 Used In GitHub's Storage : 285.4 kB 
  > 
-> 🏆 Contributions Made In The Year : 2,277 In 2026 
+> 🏆 Contributions Made In The Year : 2,218 In 2026 
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
-> 📜 Public Repositories : 31 
+> 📜 Public Repositories : 32 
  > 
-> 🔑 Private Repositories : 6 
+> 🔑 Private Repositories : 5 
  > 
 **I Am An Night Owls** 
 
 ```text
-🌞 Morning                      142 Commits            █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-🌆 Daytime                      831 Commits            █████████░░░░░░░░░░░░░░░░   34.61 %
-🌃 Evening                      882 Commits            █████████░░░░░░░░░░░░░░░░   36.73 %
-🌙 Night                        546 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.74 %
+🌞 Morning                      150 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+🌆 Daytime                      782 Commits            ████████░░░░░░░░░░░░░░░░░   33.90 %
+🌃 Evening                      855 Commits            █████████░░░░░░░░░░░░░░░░   37.06 %
+🌙 Night                        520 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.54 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         399 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-Tuesday                        587 Commits            ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-Wednesday                      226 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Thursday                       252 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Friday                         258 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-Saturday                       324 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Sunday                         355 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.79 %
+Monday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.99 %
+Tuesday                        536 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.23 %
+Wednesday                      233 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Thursday                       254 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Friday                         242 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Saturday                       311 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Sunday                         339 Commits            ████░░░░░░░░░░░░░░░░░░░░░   14.69 %
 ```
 
 
@@ -176,34 +176,32 @@ Sunday                         355 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     18 Hrs 19 Mins         ██████████████░░░░░░░░░░░   54.49 %
-Python                         5 Hrs 15 Mins          ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-Html                           2 Hrs 54 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-C++                            2 Hrs 47 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Yaml                           1 Hr 5 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Html                           1 Hr 47 Mins           ███████████░░░░░░░░░░░░░░   45.38 %
+Typescript                     1 Hr 2 Mins            ███████░░░░░░░░░░░░░░░░░░   26.53 %
+Python                         20 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Yaml                           15 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Java Properties                14 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 
 🔥 Editors:
-Antigravity Ide                33 Hrs 38 Mins         █████████████████████████   100.00 %
+Antigravity Ide                3 Hrs 56 Mins          █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-Nimswallah                     20 Hrs 26 Mins         ███████████████░░░░░░░░░░   60.73 %
-Shuchi-Gift                    6 Hrs 56 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Unknown Project                2 Hrs 42 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Futureplay                     2 Hrs 11 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Ds-Website                     43 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Ssta-Walkietalkie              2 Hrs 18 Mins          ███████████████░░░░░░░░░░   58.62 %
+Abhivyakti                     49 Mins                █████░░░░░░░░░░░░░░░░░░░░   21.05 %
+Nims-Abhivyakti2026            48 Mins                █████░░░░░░░░░░░░░░░░░░░░   20.33 %
 
 💻 Operating System:
-Windows                        33 Hrs 38 Mins         █████████████████████████   100.00 %
+Windows                        3 Hrs 56 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
 
 ```text
-Python                         19 Repos               ██████████░░░░░░░░░░░░░░░   39.58 %
-Typescript                     16 Repos               ████████░░░░░░░░░░░░░░░░░   33.33 %
-Javascript                     2 Repos                █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Jupyter Notebook               1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python                         19 Repos               ██████████░░░░░░░░░░░░░░░   38.78 %
+Typescript                     16 Repos               ████████░░░░░░░░░░░░░░░░░   32.65 %
+Html                           7 Repos                ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+Jupyter Notebook               1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Dart                           1 Repo                 █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 
@@ -213,7 +211,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 25/10/2026 15:45:40 UTC
+ Last Updated On 06/11/2026 07:28:45 UTC
 <!--END_SECTION:waka-->
 ---
 
