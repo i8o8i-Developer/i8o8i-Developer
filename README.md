@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 286.7 kB 
+> 📦 Used In GitHub's Storage : 286.8 kB 
  > 
 > 🏆 Contributions Made In The Year : 2,218 In 2026 
  > 
@@ -176,25 +176,25 @@ Sunday                         339 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     2 Hrs 53 Mins          ███████████░░░░░░░░░░░░░░   43.01 %
-Html                           1 Hr 47 Mins           ███████░░░░░░░░░░░░░░░░░░   26.60 %
-Other                          34 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Python                         25 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Yaml                           17 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Typescript                     3 Hrs 49 Mins          ██████████░░░░░░░░░░░░░░░   40.76 %
+Html                           1 Hr 57 Mins           █████░░░░░░░░░░░░░░░░░░░░   20.75 %
+Markdown                       1 Hr 12 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
+Other                          56 Mins                ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Python                         25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 
 🔥 Editors:
-Antigravity Ide                5 Hrs 1 Min            ███████████████████░░░░░░   74.68 %
-Antigravity Desktop            1 Hr 42 Mins           ██████░░░░░░░░░░░░░░░░░░░   25.32 %
+Antigravity Ide                5 Hrs 53 Mins          ████████████████░░░░░░░░░   62.63 %
+Antigravity Desktop            3 Hrs 30 Mins          █████████░░░░░░░░░░░░░░░░   37.37 %
 
 🐱‍💻 Projects:
-Ssta-Walkietalkie              2 Hrs 18 Mins          █████████░░░░░░░░░░░░░░░░   34.36 %
-Br-I8O8I                       2 Hrs 5 Mins           ████████░░░░░░░░░░░░░░░░░   31.07 %
-Abhivyakti                     49 Mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Nims-Abhivyakti2026            48 Mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
-Updation                       19 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Ssta-Walkietalkie              2 Hrs 18 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Zonecraft                      2 Hrs 18 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+Br-I8O8I                       2 Hrs 5 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.22 %
+Abhivyakti                     49 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+Nims-Abhivyakti2026            48 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 
 💻 Operating System:
-Windows                        6 Hrs 43 Mins          █████████████████████████   100.00 %
+Windows                        9 Hrs 24 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -214,7 +214,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 07/11/2026 18:38:33 UTC
+ Last Updated On 07/11/2026 18:45:21 UTC
 <!--END_SECTION:waka-->
 ---
 
