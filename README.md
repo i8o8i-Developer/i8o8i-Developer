@@ -149,54 +149,6 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 5 
  > 
-**I Am An Night Owls** 
-
-```text
-🌞 Morning                      159 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-🌆 Daytime                      826 Commits            █████████░░░░░░░░░░░░░░░░   35.00 %
-🌃 Evening                      855 Commits            █████████░░░░░░░░░░░░░░░░   36.23 %
-🌙 Night                        520 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.03 %
-```
-📅 **I Am Most Productive On Tuesday** 
-
-```text
-Monday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-Tuesday                        536 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.71 %
-Wednesday                      233 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Thursday                       254 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Friday                         242 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Saturday                       311 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Sunday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-```
-
-
-📊 **This Week I Spent Time On** 
-
-```text
-🕑︎ Timezone: Asia/Kolkata
-
-💬 Languages:
-Typescript                     3 Hrs 49 Mins          ██████████░░░░░░░░░░░░░░░   40.76 %
-Html                           1 Hr 57 Mins           █████░░░░░░░░░░░░░░░░░░░░   20.75 %
-Markdown                       1 Hr 12 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Other                          56 Mins                ███░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Python                         25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-
-🔥 Editors:
-Antigravity Ide                5 Hrs 53 Mins          ████████████████░░░░░░░░░   62.63 %
-Antigravity Desktop            3 Hrs 30 Mins          █████████░░░░░░░░░░░░░░░░   37.37 %
-
-🐱‍💻 Projects:
-Ssta-Walkietalkie              2 Hrs 18 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-Zonecraft                      2 Hrs 18 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Br-I8O8I                       2 Hrs 5 Mins           ██████░░░░░░░░░░░░░░░░░░░   22.22 %
-Abhivyakti                     49 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Nims-Abhivyakti2026            48 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-
-💻 Operating System:
-Windows                        9 Hrs 24 Mins          █████████████████████████   100.00 %
-```
-
 *I Mostly Code In Python** 
 
 ```text
@@ -214,7 +166,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 08/11/2026 18:29:28 UTC
+ Last Updated On 08/11/2026 18:44:44 UTC
 <!--END_SECTION:waka-->
 ---
 
