@@ -149,6 +149,55 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 5 
  > 
+**I Am An Night Owls** 
+
+```text
+🌞 Morning                      159 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+🌆 Daytime                      826 Commits            █████████░░░░░░░░░░░░░░░░   35.00 %
+🌃 Evening                      855 Commits            █████████░░░░░░░░░░░░░░░░   36.23 %
+🌙 Night                        520 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.03 %
+```
+📅 **I Am Most Productive On Tuesday** 
+
+```text
+Monday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Tuesday                        536 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.71 %
+Wednesday                      233 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Thursday                       254 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Friday                         242 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Saturday                       311 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Sunday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+```
+
+
+📊 **This Week I Spent Time On** 
+
+```text
+🕑︎ Timezone: Asia/Kolkata
+
+💬 Languages:
+Other                          15 Hrs 3 Mins          █████████████░░░░░░░░░░░░   53.92 %
+Typescript                     6 Hrs 54 Mins          ██████░░░░░░░░░░░░░░░░░░░   24.71 %
+Markdown                       2 Hrs 2 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Html                           1 Hr 47 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Python                         49 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+
+🔥 Editors:
+Antigravity Ide                22 Hrs 16 Mins         ████████████████████░░░░░   79.76 %
+Antigravity Desktop            3 Hrs 30 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Antigravity                    2 Hrs 8 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+
+🐱‍💻 Projects:
+Updation                       14 Hrs 21 Mins         █████████████░░░░░░░░░░░░   51.41 %
+Ds-Website                     4 Hrs 19 Mins          ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Zonecraft                      2 Hrs 18 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Br-I8O8I                       2 Hrs 5 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Ssta-Walkietalkie              1 Hr 55 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+
+💻 Operating System:
+Windows                        27 Hrs 55 Mins         █████████████████████████   100.00 %
+```
+
 *I Mostly Code In Python** 
 
 ```text
@@ -166,7 +215,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 08/11/2026 18:44:44 UTC
+ Last Updated On 08/11/2026 18:51:42 UTC
 <!--END_SECTION:waka-->
 ---
 
