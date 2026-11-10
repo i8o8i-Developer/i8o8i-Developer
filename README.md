@@ -176,26 +176,26 @@ Sunday                         392 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Other                          11 Hrs 33 Mins         ██████████░░░░░░░░░░░░░░░   39.19 %
-Typescript                     10 Hrs 1 Min           █████████░░░░░░░░░░░░░░░░   34.02 %
-Markdown                       2 Hrs 10 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Html                           2 Hrs 8 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Python                         1 Hr 29 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Typescript                     10 Hrs 1 Min           █████████░░░░░░░░░░░░░░░░   35.78 %
+Other                          9 Hrs 14 Mins          ████████░░░░░░░░░░░░░░░░░   33.01 %
+Python                         2 Hrs 20 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Markdown                       2 Hrs 10 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Html                           2 Hrs 9 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
 
 🔥 Editors:
-Antigravity Ide                20 Hrs 14 Mins         █████████████████░░░░░░░░   68.69 %
-Antigravity                    5 Hrs 42 Mins          █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Antigravity Desktop            3 Hrs 30 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Antigravity Ide                18 Hrs 14 Mins         ████████████████░░░░░░░░░   65.14 %
+Antigravity                    6 Hrs 15 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.32 %
+Antigravity Desktop            3 Hrs 30 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
 
 🐱‍💻 Projects:
-Updation                       10 Hrs 51 Mins         █████████░░░░░░░░░░░░░░░░   36.81 %
-Nimswallah                     5 Hrs 32 Mins          █████░░░░░░░░░░░░░░░░░░░░   18.81 %
-Ds-Website                     4 Hrs 34 Mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Zonecraft                      2 Hrs 18 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Br-I8O8I                       2 Hrs 5 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Updation                       8 Hrs 32 Mins          ████████░░░░░░░░░░░░░░░░░   30.51 %
+Nimswallah                     6 Hrs 13 Mins          ██████░░░░░░░░░░░░░░░░░░░   22.21 %
+Ds-Website                     4 Hrs 34 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Zonecraft                      2 Hrs 18 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Br-I8O8I                       2 Hrs 5 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 
 💻 Operating System:
-Windows                        29 Hrs 28 Mins         █████████████████████████   100.00 %
+Windows                        28 Hrs                 █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -215,7 +215,7 @@ Dart                           1 Repo                 █░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 10/11/2026 18:39:13 UTC
+ Last Updated On 10/11/2026 18:52:18 UTC
 <!--END_SECTION:waka-->
 ---
 
