@@ -139,7 +139,7 @@ My Work Primarily Focuses On :
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 346.9 kB 
+> 📦 Used In GitHub's Storage : 347.0 kB 
  > 
 > 🏆 Contributions Made In The Year : 2,376 In 2026 
  > 
@@ -149,55 +149,6 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 5 
  > 
-**I Am An Night Owls** 
-
-```text
-🌞 Morning                      160 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-🌆 Daytime                      842 Commits            █████████░░░░░░░░░░░░░░░░   34.10 %
-🌃 Evening                      947 Commits            ██████████░░░░░░░░░░░░░░░   38.36 %
-🌙 Night                        520 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.06 %
-```
-📅 **I Am Most Productive On Tuesday** 
-
-```text
-Monday                         450 Commits            █████░░░░░░░░░░░░░░░░░░░░   18.23 %
-Tuesday                        545 Commits            ██████░░░░░░░░░░░░░░░░░░░   22.07 %
-Wednesday                      233 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Thursday                       254 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-Friday                         284 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Saturday                       311 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Sunday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-```
-
-
-📊 **This Week I Spent Time On** 
-
-```text
-🕑︎ Timezone: Asia/Kolkata
-
-💬 Languages:
-Typescript                     5 Hrs 15 Mins          ██████████░░░░░░░░░░░░░░░   40.47 %
-Python                         4 Hrs 35 Mins          █████████░░░░░░░░░░░░░░░░   35.29 %
-Sql                            31 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Text                           29 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Html                           25 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-
-🔥 Editors:
-Antigravity                    8 Hrs 30 Mins          ████████████████░░░░░░░░░   65.41 %
-Antigravity Ide                4 Hrs 28 Mins          █████████░░░░░░░░░░░░░░░░   34.36 %
-Antigravity Desktop            1 Min                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-
-🐱‍💻 Projects:
-Isms-Nasss                     6 Hrs 7 Mins           ████████████░░░░░░░░░░░░░   47.13 %
-Nimswallah                     6 Hrs 5 Mins           ████████████░░░░░░░░░░░░░   46.84 %
-Safe-Windows-Repair            24 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Ds-Website                     15 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Teachers-Portal                2 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-
-💻 Operating System:
-Windows                        13 Hrs                 █████████████████████████   100.00 %
-```
-
 *I Mostly Code In Python** 
 
 ```text
@@ -215,7 +166,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 16/11/2026 18:33:42 UTC
+ Last Updated On 16/11/2026 18:40:44 UTC
 <!--END_SECTION:waka-->
 ---
 
