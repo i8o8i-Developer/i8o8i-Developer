@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C055%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C055%20hrs%2052%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.7%20Million%20Lines%20Of%20Code-blue)
 
@@ -215,7 +215,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 17/11/2026 13:01:42 UTC
+ Last Updated On 17/11/2026 13:15:36 UTC
 <!--END_SECTION:waka-->
 ---
 
