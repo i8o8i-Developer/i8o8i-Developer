@@ -133,13 +133,13 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C067%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C068%20hrs%201%20min-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.7%20Million%20Lines%20Of%20Code-blue)
 
 **🐱 i8o8i-Developer GitHub Data** 
 
-> 📦 Used In GitHub's Storage : 349.0 kB 
+> 📦 Used In GitHub's Storage : 349.1 kB 
  > 
 > 🏆 Contributions Made In The Year : 2,614 In 2026 
  > 
@@ -176,26 +176,27 @@ Sunday                         392 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     9 Hrs 43 Mins          █████████░░░░░░░░░░░░░░░░   36.12 %
-Python                         6 Hrs                  ██████░░░░░░░░░░░░░░░░░░░   22.32 %
-Other                          3 Hrs 20 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-Bash                           1 Hr 16 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Yaml                           51 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Typescript                     13 Hrs 12 Mins         █████████░░░░░░░░░░░░░░░░   37.77 %
+Python                         6 Hrs 52 Mins          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
+Other                          4 Hrs 44 Mins          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Bash                           2 Hrs 11 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Yaml                           1 Hr 40 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 
 🔥 Editors:
-Antigravity Ide                12 Hrs 38 Mins         ████████████░░░░░░░░░░░░░   46.94 %
-Antigravity Desktop            8 Hrs 41 Mins          ████████░░░░░░░░░░░░░░░░░   32.26 %
-Antigravity                    5 Hrs 36 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.80 %
+Antigravity Ide                17 Hrs 56 Mins         █████████████░░░░░░░░░░░░   51.31 %
+Antigravity Desktop            10 Hrs 53 Mins         ████████░░░░░░░░░░░░░░░░░   31.15 %
+Antigravity                    5 Hrs 36 Mins          ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Codex Vscode                   31 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 
 🐱‍💻 Projects:
-Abhivyakti-Reimagine           14 Hrs 56 Mins         ██████████████░░░░░░░░░░░   55.47 %
-Isms-Nasss                     7 Hrs 6 Mins           ███████░░░░░░░░░░░░░░░░░░   26.40 %
-Unknown Project                2 Hrs 8 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Data-Randamizer                1 Hr 12 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Parents-Portal                 44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Abhivyakti-Reimagine           22 Hrs 11 Mins         ████████████████░░░░░░░░░   63.47 %
+Isms-Nasss                     7 Hrs 6 Mins           █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+Unknown Project                2 Hrs 23 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Data-Randamizer                1 Hr 12 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Parents-Portal                 44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 
 💻 Operating System:
-Windows                        26 Hrs 55 Mins         █████████████████████████   100.00 %
+Windows                        34 Hrs 57 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -215,7 +216,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 18/11/2026 18:29:31 UTC
+ Last Updated On 18/11/2026 18:44:46 UTC
 <!--END_SECTION:waka-->
 ---
 
