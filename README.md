@@ -176,27 +176,27 @@ Sunday                         392 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     12 Hrs 56 Mins         █████████░░░░░░░░░░░░░░░░   35.31 %
-Other                          6 Hrs 14 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.04 %
-Python                         6 Hrs 1 Min            ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-Bash                           3 Hrs 7 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Yaml                           1 Hr 36 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Typescript                     13 Hrs 43 Mins         █████████░░░░░░░░░░░░░░░░   35.97 %
+Other                          6 Hrs 48 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.83 %
+Python                         6 Hrs 33 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.19 %
+Bash                           3 Hrs 7 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Yaml                           1 Hr 36 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 
 🔥 Editors:
-Antigravity Ide                19 Hrs 44 Mins         █████████████░░░░░░░░░░░░   53.87 %
-Antigravity Desktop            15 Hrs 19 Mins         ██████████░░░░░░░░░░░░░░░   41.82 %
-Antigravity                    1 Hr 2 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-Codex Vscode                   31 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Antigravity Ide                19 Hrs 43 Mins         █████████████░░░░░░░░░░░░   51.72 %
+Antigravity Desktop            16 Hrs 50 Mins         ███████████░░░░░░░░░░░░░░   44.15 %
+Antigravity                    1 Hr 2 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Codex Vscode                   31 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 
 🐱‍💻 Projects:
-Abhivyakti-Reimagine           28 Hrs 47 Mins         ████████████████████░░░░░   78.58 %
-Unknown Project                3 Hrs 1 Min            ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Data-Randamizer                1 Hr 34 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Isms-Nasss                     1 Hr 17 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Parents-Portal                 44 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Abhivyakti-Reimagine           30 Hrs                 ████████████████████░░░░░   78.65 %
+Unknown Project                3 Hrs 15 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Data-Randamizer                2 Hrs 8 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Isms-Nasss                     1 Hr 15 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Parents-Portal                 44 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 
 💻 Operating System:
-Windows                        36 Hrs 38 Mins         █████████████████████████   100.00 %
+Windows                        38 Hrs 8 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -216,7 +216,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 21/11/2026 18:29:55 UTC
+ Last Updated On 21/11/2026 18:45:09 UTC
 <!--END_SECTION:waka-->
 ---
 
