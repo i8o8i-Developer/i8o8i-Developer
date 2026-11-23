@@ -149,56 +149,6 @@ My Work Primarily Focuses On :
  > 
 > 🔑 Private Repositories : 6 
  > 
-**I Am An Night Owls** 
-
-```text
-🌞 Morning                      177 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-🌆 Daytime                      867 Commits            ████████░░░░░░░░░░░░░░░░░   33.33 %
-🌃 Evening                      991 Commits            ██████████░░░░░░░░░░░░░░░   38.10 %
-🌙 Night                        566 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.76 %
-```
-📅 **I Am Most Productive On Tuesday** 
-
-```text
-Monday                         450 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.30 %
-Tuesday                        619 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Wednesday                      254 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Thursday                       273 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-Friday                         300 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Saturday                       313 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-Sunday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.07 %
-```
-
-
-📊 **This Week I Spent Time On** 
-
-```text
-🕑︎ Timezone: Asia/Kolkata
-
-💬 Languages:
-Typescript                     13 Hrs 43 Mins         █████████░░░░░░░░░░░░░░░░   35.97 %
-Other                          6 Hrs 48 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.83 %
-Python                         6 Hrs 33 Mins          ████░░░░░░░░░░░░░░░░░░░░░   17.19 %
-Bash                           3 Hrs 7 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Yaml                           1 Hr 36 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-
-🔥 Editors:
-Antigravity Ide                19 Hrs 43 Mins         █████████████░░░░░░░░░░░░   51.72 %
-Antigravity Desktop            16 Hrs 50 Mins         ███████████░░░░░░░░░░░░░░   44.15 %
-Antigravity                    1 Hr 2 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Codex Vscode                   31 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-
-🐱‍💻 Projects:
-Abhivyakti-Reimagine           30 Hrs                 ████████████████████░░░░░   78.65 %
-Unknown Project                3 Hrs 15 Mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-Data-Randamizer                2 Hrs 8 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Isms-Nasss                     1 Hr 15 Mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Parents-Portal                 44 Mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-
-💻 Operating System:
-Windows                        38 Hrs 8 Mins          █████████████████████████   100.00 %
-```
-
 *I Mostly Code In Python** 
 
 ```text
@@ -216,7 +166,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 23/11/2026 18:36:05 UTC
+ Last Updated On 23/11/2026 18:42:50 UTC
 <!--END_SECTION:waka-->
 ---
 
