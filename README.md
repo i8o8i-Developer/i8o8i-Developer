@@ -152,18 +152,18 @@ My Work Primarily Focuses On :
 **I Am An Night Owls** 
 
 ```text
-🌞 Morning                      177 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-🌆 Daytime                      867 Commits            ████████░░░░░░░░░░░░░░░░░   33.33 %
-🌃 Evening                      991 Commits            ██████████░░░░░░░░░░░░░░░   38.10 %
-🌙 Night                        566 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.76 %
+🌞 Morning                      177 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+🌆 Daytime                      868 Commits            ████████░░░░░░░░░░░░░░░░░   33.36 %
+🌃 Evening                      991 Commits            ██████████░░░░░░░░░░░░░░░   38.09 %
+🌙 Night                        566 Commits            █████░░░░░░░░░░░░░░░░░░░░   21.75 %
 ```
 📅 **I Am Most Productive On Tuesday** 
 
 ```text
-Monday                         450 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.30 %
-Tuesday                        619 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.80 %
-Wednesday                      254 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-Thursday                       273 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Monday                         450 Commits            ████░░░░░░░░░░░░░░░░░░░░░   17.29 %
+Tuesday                        620 Commits            ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+Wednesday                      254 Commits            ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Thursday                       273 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 Friday                         300 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
 Saturday                       313 Commits            ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
 Sunday                         392 Commits            ████░░░░░░░░░░░░░░░░░░░░░   15.07 %
@@ -202,11 +202,11 @@ Windows                        33 Hrs 43 Mins         ████████�
 *I Mostly Code In Python** 
 
 ```text
-Python                         19 Repos               ██████████░░░░░░░░░░░░░░░   38.00 %
-Typescript                     18 Repos               █████████░░░░░░░░░░░░░░░░   36.00 %
-Html                           7 Repos                ████░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Jupyter Notebook               1 Repo                 ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Dart                           1 Repo                 ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python                         20 Repos               ██████████░░░░░░░░░░░░░░░   39.22 %
+Typescript                     18 Repos               █████████░░░░░░░░░░░░░░░░   35.29 %
+Html                           7 Repos                ███░░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Jupyter Notebook               1 Repo                 ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Dart                           1 Repo                 ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 
@@ -216,7 +216,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 24/11/2026 09:38:58 UTC
+ Last Updated On 24/11/2026 09:45:50 UTC
 <!--END_SECTION:waka-->
 ---
 
