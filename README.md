@@ -176,26 +176,24 @@ Sunday                         392 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Typescript                     5 Hrs 52 Mins          ████████░░░░░░░░░░░░░░░░░   31.07 %
-Python                         3 Hrs 58 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.00 %
-Other                          3 Hrs 34 Mins          █████░░░░░░░░░░░░░░░░░░░░   18.90 %
-Bash                           1 Hr 56 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-Yaml                           1 Hr 12 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Python                         3 Hrs 3 Mins           ███████░░░░░░░░░░░░░░░░░░   28.05 %
+Typescript                     2 Hrs 22 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.75 %
+Other                          2 Hrs 15 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.74 %
+Bash                           1 Hr 1 Min             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Sql                            36 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 
 🔥 Editors:
-Antigravity Ide                10 Hrs                 █████████████░░░░░░░░░░░░   52.86 %
-Antigravity Desktop            8 Hrs 23 Mins          ███████████░░░░░░░░░░░░░░   44.35 %
-Codex Vscode                   31 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Antigravity Desktop            6 Hrs 11 Mins          ██████████████░░░░░░░░░░░   56.82 %
+Antigravity Ide                4 Hrs 42 Mins          ███████████░░░░░░░░░░░░░░   43.18 %
 
 🐱‍💻 Projects:
-Abhivyakti-Reimagine           15 Hrs 11 Mins         ████████████████████░░░░░   80.25 %
-Udrah Idustries Work           1 Hr 14 Mins           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Unknown Project                1 Hr 2 Mins            █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Data-Randamizer                55 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Chrome-Open-My-Existing-Abh... 31 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Abhivyakti-Reimagine           7 Hrs 51 Mins          ██████████████████░░░░░░░   72.12 %
+Udrah Idustries Work           1 Hr 14 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Data-Randamizer                55 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Unknown Project                52 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 
 💻 Operating System:
-Windows                        18 Hrs 55 Mins         █████████████████████████   100.00 %
+Windows                        10 Hrs 53 Mins         █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -215,7 +213,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 25/11/2026 18:37:05 UTC
+ Last Updated On 25/11/2026 18:44:11 UTC
 <!--END_SECTION:waka-->
 ---
 
