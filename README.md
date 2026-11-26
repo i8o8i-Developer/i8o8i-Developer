@@ -145,9 +145,9 @@ My Work Primarily Focuses On :
  > 
 > 🚫 i8o8i Solutions Is Not Open to Hire 
  > 
-> 📜 Public Repositories : 32 
+> 📜 Public Repositories : 31 
  > 
-> 🔑 Private Repositories : 6 
+> 🔑 Private Repositories : 7 
  > 
 **I Am An Night Owls** 
 
@@ -213,7 +213,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 26/11/2026 06:25:00 UTC
+ Last Updated On 26/11/2026 06:40:15 UTC
 <!--END_SECTION:waka-->
 ---
 
