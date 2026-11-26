@@ -133,7 +133,7 @@ My Work Primarily Focuses On :
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C078%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time%20%28Team%29-1%2C081%20hrs%2015%20mins-blue)
 
 ![Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I%20Have%20Written-1.7%20Million%20Lines%20Of%20Code-blue)
 
@@ -176,24 +176,27 @@ Sunday                         392 Commits            ████░░░░�
 🕑︎ Timezone: Asia/Kolkata
 
 💬 Languages:
-Python                         3 Hrs 3 Mins           ███████░░░░░░░░░░░░░░░░░░   28.05 %
-Typescript                     2 Hrs 22 Mins          █████░░░░░░░░░░░░░░░░░░░░   21.75 %
-Other                          2 Hrs 15 Mins          █████░░░░░░░░░░░░░░░░░░░░   20.74 %
-Bash                           1 Hr 1 Min             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Sql                            36 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Python                         3 Hrs 24 Mins          █████████░░░░░░░░░░░░░░░░   35.11 %
+Other                          1 Hr 48 Mins           █████░░░░░░░░░░░░░░░░░░░░   18.71 %
+Typescript                     1 Hr 18 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Sql                            36 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Markdown                       36 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 
 🔥 Editors:
-Antigravity Desktop            6 Hrs 11 Mins          ██████████████░░░░░░░░░░░   56.82 %
-Antigravity Ide                4 Hrs 42 Mins          ███████████░░░░░░░░░░░░░░   43.18 %
+Antigravity Desktop            4 Hrs 44 Mins          ████████████░░░░░░░░░░░░░   48.87 %
+Antigravity Ide                4 Hrs 27 Mins          ███████████░░░░░░░░░░░░░░   45.95 %
+Opencode                       22 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Antigravity                    7 Mins                 ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 
 🐱‍💻 Projects:
-Abhivyakti-Reimagine           7 Hrs 51 Mins          ██████████████████░░░░░░░   72.12 %
-Udrah Idustries Work           1 Hr 14 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Data-Randamizer                55 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Unknown Project                52 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Abhivyakti-Reimagine           4 Hrs 50 Mins          ████████████░░░░░░░░░░░░░   49.82 %
+Nimswallah                     1 Hr 45 Mins           █████░░░░░░░░░░░░░░░░░░░░   18.09 %
+Udrah Idustries Work           1 Hr 14 Mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.80 %
+Data-Randamizer                55 Mins                ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Isms-Nasss                     32 Mins                █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 
 💻 Operating System:
-Windows                        10 Hrs 53 Mins         █████████████████████████   100.00 %
+Windows                        9 Hrs 42 Mins          █████████████████████████   100.00 %
 ```
 
 *I Mostly Code In Python** 
@@ -213,7 +216,7 @@ Dart                           1 Repo                 ░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/i8o8i-Developer/i8o8i-Developer/main/./assets/bar_graph.png)
 
 
- Last Updated On 26/11/2026 18:31:39 UTC
+ Last Updated On 26/11/2026 18:39:29 UTC
 <!--END_SECTION:waka-->
 ---
 
